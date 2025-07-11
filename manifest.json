@@ -1,0 +1,29 @@
+{
+  "manifest_version": 3,
+  "name": "AdBlocker",
+  "version": "1.0",
+  "description": "Block all ads",
+  "action": {
+    "default_popup": "action.html"
+  },
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "host_permissions": [
+    "https://*/*",
+    "http://*/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self'"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": ["questions.json", "scripts/domHelpers.js", "scripts/injector.js"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+} 

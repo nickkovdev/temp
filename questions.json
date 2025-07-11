@@ -1,0 +1,4167 @@
+[
+  {
+    "media": "video_A_kat_Test_3_MP4.webp",
+    "question": "Video jautājums\nKā jārīkojas motocikla vadītājam attēlotajā situācijā?",
+    "answers": {
+      "40974": "Nekavējoties jābremzē.",
+      "40975": "Jāsignalizē ar skaņas signālu.",
+      "40976": "Jāpalielina braukšanas ātrums."
+    },
+    "answer": "40974"
+  },
+  {
+    "media": "bildes_A_kat_Test_2.webp",
+    "question": "Vai motocikla vadītājam atļauts šķērsot krustojumu attēlotajā situācijā?",
+    "answers": {
+      "40972": "Atļauts.",
+      "40973": "Aizliegts."
+    },
+    "answer": "40972"
+  },
+  {
+    "media": "bildes_A_kat_Test_1.webp",
+    "question": "Kādā virzienā motocikla vadītājs brauks?",
+    "answers": {
+      "40969": "Pa labi.",
+      "40970": "Pa kreisi.",
+      "40971": "Taisni."
+    },
+    "answer": "40969"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Aizlieguma_18.webp",
+    "question": "Kuru attēlā redzamo ceļa zīmju darbība apdzīvotās vietās ir spēkā no to uzstādīšanas vietas līdz apdzīvotās vietas beigām, ja aiz ceļa zīmes nav krustojuma?",
+    "answers": {
+      "40414": "C, D un E.",
+      "40415": "A un B.",
+      "40416": "B, C un E.",
+      "40417": "B un E."
+    },
+    "answer": "40414"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Aizlieguma_17.webp",
+    "question": "Kuru attēloto ceļa zīmju darbība ir spēkā no uzstādīšanas vietas līdz tuvākajam krustojumam?",
+    "answers": {
+      "40410": "C un D.",
+      "40411": "B, C un D.",
+      "40412": "A, C, D un E.",
+      "40413": "B un E."
+    },
+    "answer": "40410"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Apzmjumi_1.webp",
+    "question": "Ko apzīmē attēlotais vertikālais ceļa apzīmējums?",
+    "answers": {
+      "40147": "Kreiso pagriezienu vietās, kur ir ierobežota redzamība.",
+      "40148": "Ieskrējiena joslas beigas.",
+      "40149": "Joslas sašaurinājums pa kreisi."
+    },
+    "answer": "40147"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Apdzana,_samainans,_apsteigana_4.webp",
+    "question": "Vai motocikla vadītājam atļauts apdzīt attēlotajā situācijā?",
+    "answers": {
+      "39994": "Aizliegts jebkurā gadījumā.",
+      "39995": "Atļauts.",
+      "39996": "Aizliegts tikai gadījumos, ja tuvojas transportlīdzekļi no labās puses."
+    },
+    "answer": "39994"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Transportldzeku_izkrtojums_uz_brauktuves_2.webp",
+    "question": "Cik braukšanas joslu ir attēlotajam ceļam?",
+    "answers": {
+      "40029": "Divas joslas.",
+      "40030": "Trīs joslas.",
+      "40031": "Viena josla.",
+      "40032": "Četras joslas."
+    },
+    "answer": "40029"
+  },
+  {
+    "media": "video_A_kat_A_Citu_satiksmes_dalbnieku_intereu_ievroana_Dzvnieki_uz_cea1_MP4.webp",
+    "question": "Video jautājums\nKā Jums ir jārīkojas attēlotajā situācijā?",
+    "answers": {
+      "41133": "Jāsamazina braukšanas ātrums, uzmanīgi jāvēro ceļmalas un jābūt gatavam, ka uz ceļa var izskriet savvaļas dzīvnieks.",
+      "41134": "Jāieslēdz tālās gaismas lukturi un periodiski jālieto skaņas signāls.",
+      "41135": "Nedaudz jāpalielina braukšanas ātrums, lai ātrāk šķērsotu bīstamo ceļa posmu.",
+      "41136": "Ieraugot savvaļas dzīvnieku uz brauktuves, strauji jābremzē un jāmēģina to apbraukt."
+    },
+    "answer": "41133"
+  },
+  {
+    "media": "bildes_A_kat_6._Citi_dalbnieki_8.webp",
+    "question": "Kā rīkosieties attēlotajā situācijā?",
+    "answers": {
+      "40656": "Bremzēšu, jo gājēju pāreja no labās puses ir nepārredzama.",
+      "40657": "Palielinot braukšanas ātrumu, apsteigšu kravas automobili, kamēr uz gājēju pārejas nav gājēju."
+    },
+    "answer": "40656"
+  },
+  {
+    "media": "bildes_A_kat_7._Aizsargtrps_ivere_2.webp",
+    "question": "Kas ir jāņem vērā, lietojot ķiveri, kurai ir tumšais aizsargstikls vai spoguļstikls?",
+    "answers": {
+      "40821": "Braucot diennakts tumšajā laikā vai nepietiekamas redzamības apstākļos redzamība caur minētiem aizsargstikliem būtiski pasliktinās.",
+      "40822": "Abu veidu aizsargstikli UV staru ietekmē ar laiku zaudē savu aizsargfunkciju.",
+      "40823": "Abu veidu aizsargstikli atbaida insektus, tādējādi novērš to triekšanos pret aizsargstiklu."
+    },
+    "answer": "40821"
+  },
+  {
+    "media": "video_A_kat_A_Bstambas_paredzana_Distance1_MP4.webp",
+    "question": "Video jautājums\nKādai(-ām) satiksmes situācijas bīstamībai(-ām) motocikla vadītājs pakļauj sevi?",
+    "answers": {
+      "41102": "Aiz priekšā braucoša automobiļa ir slikta pārredzamība.",
+      "41103": "Joslas vidū uz brauktuves var būt no automobiļiem iztecējušie tehniskie šķidrumi.",
+      "41104": "Nav ievērota droša distance.",
+      "41105": "Visas minētās atbildes ir pareizas."
+    },
+    "answer": "41105"
+  },
+  {
+    "media": "bildes_A_kat_5._Droa_vadana_31.1.webp",
+    "question": "Kādu attālumu nobrauc motocikls vienā sekundē, braucot ar ātrumu 70 km/h?",
+    "answers": {
+      "40611": "Aptuveni 19 m.",
+      "40612": "Aptuveni 25 m.",
+      "40613": "Aptuveni 32 m."
+    },
+    "answer": "40611"
+  },
+  {
+    "media": "bildes_A_kat_5._Droa_vadana_ce.webp",
+    "question": "Cik reizes palielināsies bremzēšanas ceļa garums, ja, braucot pa sausu asfalta ceļa segumu ar ātrumu 40 km/h, palielināsiet braukšanas ātrumu līdz 80 km/h?",
+    "answers": {
+      "40617": "Četras reizes.",
+      "40618": "Vienu reizi.",
+      "40619": "Divas reizes."
+    },
+    "answer": "40617"
+  },
+  {
+    "media": "bildes_A_kat_5._Droa_vadana_abc.webp",
+    "question": "Kura braukšanas trajektorija samazina iespēju motocikla riepām izslīdēt uz tramvaja sliedēm?",
+    "answers": {
+      "40512": "A.",
+      "40513": "B.",
+      "40514": "C."
+    },
+    "answer": "40512"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Braukanas_trums_1.webp",
+    "question": "Turpinot kustību, Jūsu vadītā motocikla braukšanas ātrums nedrīkst pārsniegt:",
+    "answers": {
+      "39956": "20 km/h.",
+      "39957": "30 km/h.",
+      "39958": "50 km/h."
+    },
+    "answer": "39956"
+  },
+  {
+    "media": "bildes_A_kat_3._Priekrocbas_Viendas_nozmes_4.2.webp",
+    "question": "Kā ir jārīkojas motocikla vadītājam, šķērsojot krustojumu?",
+    "answers": {
+      "41495": "Jādod ceļš sarkanā automobiļa vadītājam.",
+      "41496": "Jādod ceļš dzeltenā automobiļa vadītājam.",
+      "41497": "Jāšķērso krustojums pirmajam."
+    },
+    "answer": "41495"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Termini_15.webp",
+    "question": "Kuras krāsas līnijas apzīmē krustojuma robežas?",
+    "answers": {
+      "39839": "A. Zaļās.",
+      "39840": "B. Sarkanās."
+    },
+    "answer": "39839"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Termini_30.webp",
+    "question": "Motociklam atrodoties kustībā, vadītājam aizliegts:",
+    "answers": {
+      "41165": "Lietot viedierīces.",
+      "41166": "Klausīties mūziku.",
+      "41167": "Sazināties ar pasažieri."
+    },
+    "answer": "41165"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Termini_2.webp",
+    "question": "Kādu manevru veic motocikla vadītājs attēlotajā situācijā?",
+    "answers": {
+      "39802": "Apsteigšanu.",
+      "39803": "Apdzīšanu.",
+      "39804": "Apbraukšanu."
+    },
+    "answer": "39802"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Nordjuma_7.webp",
+    "question": "Kuros virzienos atļauts braukt attēlā redzamajā krustojumā?",
+    "answers": {
+      "40310": "A, B, D un E.",
+      "40311": "B, D un E.",
+      "40312": "B, C, D un E.",
+      "40313": "A, B, C un E."
+    },
+    "answer": "40310"
+  },
+  {
+    "media": "bildes_A_kat_beigta_balle.webp",
+    "question": "Kurā no minētajiem gadījumiem vajadzētu atteikties no transportlīdzekļa vadīšanas?",
+    "answers": {
+      "41457": "Brīdī, kad alkohola vairāk nav organismā, tomēr ir jūtams paģiru sindroms.",
+      "41458": "Ja alkohola koncentrācija organismā pārsniedz pieļaujamās robežas.",
+      "41459": "Abās iepriekš minētajās situācijās."
+    },
+    "answer": "41459"
+  },
+  {
+    "media": "bildes_C_kat_20.Tehniskais_stavoklis__aprkojums_drosbas_ierices_arejas_apgaismes_ierices_apstajies-pirms-atsledzies.webp",
+    "question": "“Skaļas mūzikas klausīšanās pie stūres labi palīdz pret miegainību.” Kā vērtēt šādu transportlīdzekļa vadītāja apgalvojumu?",
+    "answers": {
+      "41224": "Tas nedaudz palīdz tikai uz dažām minūtēm, bet risks iemigt pie stūres būtiski nesamazinās.",
+      "41225": "Tas palīdz labi un uz ilgāku laiku, risks iemigt pie stūres būtiski samazinās."
+    },
+    "answer": "41224"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Braukanas_skana_un_braukanas_virziena_maia_14.webp",
+    "question": "Kā rīkosieties, lai nogrieztos pa labi?",
+    "answers": {
+      "39905": "Pārliecināšos par drošību, ieslēgšu pagrieziena rādītāju, iebraukšu labajā joslā un tad samazināšu ātrumu.",
+      "39906": "Pārliecināšos par drošību, samazināšu ātrumu, ieslēgšu pagrieziena rādītāju un tad iebraukšu labajā joslā.",
+      "39907": "Pārliecināšos par drošību, iebraukšu labajā joslā, samazināšu ātrumu un ieslēgšu pagrieziena rādītāju."
+    },
+    "answer": "39905"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Apstans,_stvana_13.webp",
+    "question": "Vai motocikli pareizi novietoti stāvēšanai?",
+    "answers": {
+      "41357": "Tikai sarkanais motocikls.",
+      "41358": "Tikai zilais motocikls.",
+      "41359": "Abi motocikli novietoti pareizi."
+    },
+    "answer": "41357"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Apzmjumi_14.webp",
+    "question": "Ko apzīmē attēlotais ceļa apzīmējums – divas viena no otras atdalītas platas pārtrauktas šķērslīnijas?",
+    "answers": {
+      "40183": "Velosipēdu ceļu.",
+      "40184": "Gājēju pāreju.",
+      "40185": "Uz brauktuves izveidotu mākslīgu paaugstinājumu (ātrumvalni)."
+    },
+    "answer": "40183"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Aizlieguma_10.webp",
+    "question": "Vai motocikla vadītājam ir atļauts apstāties attēlotajā situācijā, ja tas nepieciešams pasažiera uzņemšanai?",
+    "answers": {
+      "41418": "Atļauts uz laiku, kas nepārsniedz 5 minūtes.",
+      "41419": "Atļauts tik ilgi, cik tas ir nepieciešams pasažiera uzņemšanai.",
+      "41420": "Aizliegts."
+    },
+    "answer": "41418"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Brdinjuma_6.webp",
+    "question": "Par ko brīdina attēlotā ceļa zīme?",
+    "answers": {
+      "40099": "Par ātrumvalni.",
+      "40100": "Par nelīdzenu ceļu.",
+      "40101": "Par īslaicīgu ceļa remontu."
+    },
+    "answer": "40099"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Papildzmes_3.webp",
+    "question": "Kāda ceļa zīme uzstādīta uz šī ceļa pēc 300 m?",
+    "answers": {
+      "40219": "“Neapstājoties tālāk braukt aizliegts”.",
+      "40220": "“Dodiet ceļu”.",
+      "40221": "“Apstāšanās vieta”."
+    },
+    "answer": "40219"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Rkojuma_7.webp",
+    "question": "Kuros virzienos ir atļauts braukt attēlotajā situācijā?",
+    "answers": {
+      "40352": "A un C.",
+      "40353": "A, B un C.",
+      "40354": "C."
+    },
+    "answer": "40352"
+  },
+  {
+    "media": "bildes_b_25_Pirma_palidziba_25_1.webp",
+    "question": "Kāda informācija jāpaziņo Ātrās palīdzības dispečeram, ja tiek izsaukta ātrā palīdzība?",
+    "answers": {
+      "4181": "Kur noticis nelaimes gadījums, kas noticis, cik cietušo.",
+      "4182": "Kas noticis, kur noticis nelaimes gadījums, cietušā uzvārds un vecums."
+    },
+    "answer": "4181"
+  },
+  {
+    "media": "bildes_A_kat_7._Tehniskais_stvoklis_Oil_level.webp",
+    "question": "Uz kādas sistēmas tehnisko stāvokli norāda attēlotā indikācija mēraparātu panelī?",
+    "answers": {
+      "40745": "Motora eļļošanas sistēmas.",
+      "40746": "Degvielas padeves sistēmas.",
+      "40747": "Motora dzesēšanas sistēmas."
+    },
+    "answer": "40745"
+  },
+  {
+    "media": "bildes_A_kat_7._Tehniskais_stvoklis_33.webp",
+    "question": "Kādas sekas var radīt strauja akseleratora sviras pagriešana līdz gala stāvoklim, braucot ar ieslēgtu otro pārnesumu?",
+    "answers": {
+      "40783": "Var tikt zaudēta motocikla kontrole.",
+      "40784": "Motocikls noslāps, jo motoram tiks pievadīts pārāk liels degmaisījuma daudzums.",
+      "40785": "Neatgriezeniski tiks bojāts otrais pārnesums."
+    },
+    "answer": "40783"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Papildzmes_2.webp",
+    "question": "Par ko brīdina attēlā redzamās ceļa zīmes?",
+    "answers": {
+      "40217": "Par to, ka 300 m attālumā aiz ceļa zīmes sāksies 100 m garš, stāvs augšupceļš.",
+      "40218": "Par 300 m garu, stāvu augšupceļu pēc 100 m."
+    },
+    "answer": "40217"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Apstans,_stvana_10.webp",
+    "question": "Kur novietosiet motociklu, ja esat ieplānojis ilgstoši stāvēt?",
+    "answers": {
+      "39942": "Tikai A.",
+      "39943": "Tikai B.",
+      "39944": "A un B."
+    },
+    "answer": "39942"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Termini_18.webp",
+    "question": "Kuras no attēlā redzamajām personām ir uzskatāmas par ceļu satiksmes dalībniekiem?",
+    "answers": {
+      "39847": "Visas personas.",
+      "39848": "Tikai gājēji un velosipēda vadītājs.",
+      "39849": "Visas personas, izņemot ceļa remontstrādniekus."
+    },
+    "answer": "39847"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Termini_13.webp",
+    "question": "Cik brauktuvju ir attēlā redzamajā situācijā?",
+    "answers": {
+      "39833": "Divas.",
+      "39834": "Viena.",
+      "39835": "Sešas."
+    },
+    "answer": "39833"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Nordjuma_1.webp",
+    "question": "Ko norāda attēlotā ceļa zīme?",
+    "answers": {
+      "40282": "Aiz zīmes drīkst braukt vienā virzienā.",
+      "40283": "Aiz zīmes drīkst braukt tikai taisni vai apgriezties braukšanai pretējā virzienā.",
+      "40284": "Aiz zīmes nedrīkst braukt atpakaļgaitā."
+    },
+    "answer": "40282"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Apzmjumi_9.webp",
+    "question": "Ko apzīmē pārtrauktās līnijas brauktuves malā?",
+    "answers": {
+      "40170": "Brauktuves malu, kur ir atļauts apstāties un stāvēt (nomali).",
+      "40171": "Brauktuves malu, kur nedrīkst iebraukt."
+    },
+    "answer": "40170"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Aizlieguma_20.webp",
+    "question": "Kāda ir “Apstāties aizliegts” ceļa zīmes darbības zona attēlotajā situācijā?",
+    "answers": {
+      "40421": "Līdz ceļa zīmei “Stāvvieta”.",
+      "40422": "Līdz tuvākajam krustojumam.",
+      "40423": "Līdz tuvākajam krustojumam, bet neieskaitot stāvvietu."
+    },
+    "answer": "40421"
+  },
+  {
+    "media": "bildes_A_kat_3._Priekrocbas_Mainot_virzienu_1.webp",
+    "question": "Kura transportlīdzekļa vadītājam ir priekšroka ārpus apdzīvotām vietām?",
+    "answers": {
+      "40491": "Motocikla vadītājam.",
+      "40492": "Autobusa vadītājam."
+    },
+    "answer": "40491"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Apdzana,_samainans,_apsteigana_8.webp",
+    "question": "Vai motocikla vadītājam atļauts apdzīt attēlotajā situācijā?",
+    "answers": {
+      "40003": "Aizliegts.",
+      "40004": "Atļauts."
+    },
+    "answer": "40003"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Transportldzeku_izkrtojums_uz_brauktuves_1.webp",
+    "question": "Cik braukšanas joslu ir attēlotajam ceļam?",
+    "answers": {
+      "40021": "Divas joslas.",
+      "40022": "Trīs joslas.",
+      "40023": "Viena josla.",
+      "40024": "Četras joslas."
+    },
+    "answer": "40021"
+  },
+  {
+    "media": "video_A_kat_A_Citu_satiksmes_dalbnieku_intereu_ievroana_Var_izbraukt_priek1_MP4.webp",
+    "question": "Video jautājums\nKas ir jāņem vērā motocikla vadītājam, turpinot kustību?",
+    "answers": {
+      "41149": "Iespējams, sarkanā automobiļa vadītājs nav pamanījis motociklistu un veiks kreisā pagrieziena manevru, izbraucot uz galvenā ceļa.",
+      "41150": "Baltais kravas automobilis var izraisīt spēcīgu sānvēju, būtiski ietekmējot motocikla vadāmību.",
+      "41151": "Motocikla vadītājs brauc pa galveno ceļu, tāpēc pārējie satiksmes dalībnieki izpildīs prasību “dot ceļu”."
+    },
+    "answer": "41149"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Termini_7.webp",
+    "question": "Attēlotajā situācijā motocikla vadītājs atrodas:",
+    "answers": {
+      "39815": "Uz mazāksvarīga ceļa.",
+      "39816": "Vienādas nozīmes krustojumā.",
+      "39817": "Uz galvenā ceļa."
+    },
+    "answer": "39815"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Brdinjuma_18.webp",
+    "question": "Par ko brīdina attēlotās ceļa zīmes?",
+    "answers": {
+      "40136": "Par dzelzceļa pārbrauktuvi bez barjeras pēc 50 metriem.",
+      "40137": "Par dzelzceļa pārbrauktuvi ar barjeru pēc 100 metriem.",
+      "40138": "Par vilciena staciju netālu no ceļa."
+    },
+    "answer": "40136"
+  },
+  {
+    "media": "bildes_A_kat_7._Tehniskais_stvoklis_30.webp",
+    "question": "Vai ar motociklu ir atļauts vest bērnu, kura augums nepārsniedz 150cm?",
+    "answers": {
+      "40760": "Atļauts, ja bērns var noturēt līdzsvaru un aizsniegt kāju atbalstus.",
+      "40761": "Aizliegts jebkurā gadījumā.",
+      "40762": "Atļauts, ja bērna vecums ir vismaz 12 gadi."
+    },
+    "answer": "40760"
+  },
+  {
+    "media": "bildes_A_kat_7._Tehniskais_stvoklis_mocis.webp",
+    "question": "Piedziņas ķēdes pieļaujamās brīvkustības robežas:",
+    "answers": {
+      "40678": "Nosaka motocikla ražotājs.",
+      "40679": "Ir standartizēts lielums visiem motocikliem, kuriem ir ķēdes piedziņa.",
+      "40680": "Nosaka motocikla vadītājs pēc paša ieskatiem."
+    },
+    "answer": "40678"
+  },
+  {
+    "media": "video_A_kat_A_Bstambas_paredzana_Pagrieziens_pa_kreisi1_MP4.webp",
+    "question": "Video jautājums\nKā rīkosieties attēlotajā situācijā?",
+    "answers": {
+      "41113": "Samazināšu braukšanas ātrumu un būšu gatavs bremzēt.",
+      "41114": "Strauji palielināšu ātrumu, lai nepieļautu sadursmi.",
+      "41115": "Turpināšu braukt, jo man ir priekšroka.",
+      "41116": "Sagāzīšu motociklu uz sāniem un ļaušu tam slīdēt pa priekšu."
+    },
+    "answer": "41113"
+  },
+  {
+    "media": "bildes_A_kat_7._Aizsargtrps_3.webp",
+    "question": "Kura no ķiverēm nav paredzēta motocikla vadītājam vai pasažierim?",
+    "answers": {
+      "40814": "A un B.",
+      "40815": "A.",
+      "40816": "B.",
+      "40817": "Jebkura no ķiverēm ir piemērota braukšanai ar motociklu."
+    },
+    "answer": "40814"
+  },
+  {
+    "media": "bildes_A_kat_6._Citi_dalbnieki_7.webp",
+    "question": "Kā jārīkojas motocikla vadītājam attēlotajā situācijā?",
+    "answers": {
+      "40654": "Jādod ceļš visiem satiksmes dalībniekiem.",
+      "40655": "Jādod ceļš tikai gājējiem."
+    },
+    "answer": "40654"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Braukanas_trums_7.webp",
+    "question": "Turpinot kustību, Jūsu vadītā motocikla braukšanas ātrums nedrīkst pārsniegt:",
+    "answers": {
+      "39972": "20 km/h.",
+      "39973": "30 km/h.",
+      "39974": "50 km/h."
+    },
+    "answer": "39972"
+  },
+  {
+    "media": "bildes_b_25_Pirma_palidziba_25_16.webp",
+    "question": "Kura no pozām pasargā no nosmakšanas cietušo, kurš zaudējis samaņu, bet elpo normāli?",
+    "answers": {
+      "39698": "A.",
+      "39699": "B.",
+      "39700": "Abas pozas.",
+      "39701": "Neviena no pozām."
+    },
+    "answer": "39699"
+  },
+  {
+    "media": "bildes_A_kat_beigta_balle.webp",
+    "question": "Kādu iespaidu uz transportlīdzekļa vadītāju var atstāt alkohola koncentrācija asinīs, kas ir robežās no 0,5 līdz 0,8 promilēm?",
+    "answers": {
+      "41434": "Pieaug vēlme braukt agresīvi.",
+      "41435": "Sliktāk uztver sarkanās gaismas signālus.",
+      "41436": "Abas minētās atbildes ir pareizas."
+    },
+    "answer": "41436"
+  },
+  {
+    "media": "bildes_C_kat_20.Tehniskais_stavoklis__aprkojums_drosbas_ierices_arejas_apgaismes_ierices_apstajies-pirms-atsledzies.webp",
+    "question": "“Tā kā esmu motocikla vadītājs ar lielu pieredzi, es spēšu vadīt motociklu pietiekami labi arī tad, ja būšu miegains.” Kā vērtēt šādu motocikla vadītāja apgalvojumu?",
+    "answers": {
+      "41394": "Tas ir nepareizs.",
+      "41395": "Tas ir pareizs."
+    },
+    "answer": "41394"
+  },
+  {
+    "media": "bildes_A_kat_5._Droa_vadana_17.webp",
+    "question": "Kurš no apgalvojumiem ir pareizs?",
+    "answers": {
+      "40560": "Efektīvāko bremzēšanu ir iespējams nodrošināt, bremzējot iespējami tuvu riepu saķeres zuduma robežai.",
+      "40561": "Bremzējot uz asfaltbetona ceļa seguma, ar bloķētu aizmugurējo riteni tiek nodrošināta maksimāla riepu saķere.",
+      "40562": "Efektīvāko bremzēšanu ir iespējams nodrošināt, bremzējot tikai ar priekšējām bremzēm."
+    },
+    "answer": "40560"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Rkojuma_3.webp",
+    "question": "Kurā virzienā Jums ir atļauts braukt attēlotajā situācijā?",
+    "answers": {
+      "40341": "Tikai A.",
+      "40342": "A un C.",
+      "40343": "B.",
+      "40344": "B un C."
+    },
+    "answer": "40341"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Aizlieguma_9.webp",
+    "question": "Vai attēlotajā situācijā motocikla vadītājam ir atļauts apstāties pasažieru sabiedrisko transportlīdzekļu pieturā, ja tas nepieciešams pasažiera uzņemšanai?",
+    "answers": {
+      "40887": "Aizliegts.",
+      "40888": "Atļauts, ja tas netraucē pasažieru sabiedrisko transportlīdzekļu satiksmi."
+    },
+    "answer": "40887"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Apzmjumi_5.webp",
+    "question": "Ko apzīmē nepārtraukta līnija brauktuves malās?",
+    "answers": {
+      "40160": "Vietu, kur aizliegts apstāties un stāvēt.",
+      "40161": "Vietu, kur aiz līnijas drīkst apstāties un stāvēt.",
+      "40162": "Ceļa posmu, kur aizliegts veikt apdzīšanu."
+    },
+    "answer": "40160"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Nordjuma_8.webp",
+    "question": "Ko norāda attēlā redzamā ceļa zīme?",
+    "answers": {
+      "40314": "Vietu pilsētā vai ciemā, no kuras jāievēro prasības, kas attiecas uz apdzīvotām vietām.",
+      "40315": "Pilsētas robežas sākumu.",
+      "40316": "Pagasta robežas."
+    },
+    "answer": "40314"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Apzmjumi_12.webp",
+    "question": "Ko apzīmē ceļa apzīmējums – plata nepārtraukta šķērslīnija?",
+    "answers": {
+      "40178": "Vietu, kur jāaptur transportlīdzeklis, ja braukšanu aizliedz luksofora signāls vai uzstādīta ceļa zīme “Neapstājoties tālāk braukt aizliegts”.",
+      "40179": "Vietu, kur jāapstājas jebkurā gadījumā pirms iebraukšanas krustojumā.",
+      "40180": "Līniju, kuru šķērsot aizliegts."
+    },
+    "answer": "40178"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Termini_24.webp",
+    "question": "Ceļu satiksmes noteikumu izpratnē motocikla vadītājs tuvojas:",
+    "answers": {
+      "39858": "Krustojumam.",
+      "39859": "Ceļa pārvadam.",
+      "39860": "Apgriešanās vietai."
+    },
+    "answer": "39858"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Termini_23.webp",
+    "question": "Uz kuru no minētajiem ceļiem attiecināms termins “Galvenais ceļš”?",
+    "answers": {
+      "39855": "Ceļš ar asfalta segumu attiecībā pret ceļu bez seguma.",
+      "39856": "Ceļš ar asfalta segumu attiecībā pret ceļu ar bruģa segumu.",
+      "39857": "Ceļš ar četrām braukšanas joslām attiecībā pret ceļu ar divām braukšanas joslām."
+    },
+    "answer": "39855"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Rkojuma_10.webp",
+    "question": "Kuras no attēlotajām ceļa zīmēm atļauj apgriezties braukšanai pretējā virzienā?",
+    "answers": {
+      "40360": "C un E.",
+      "40361": "A, B, C, D un E.",
+      "40362": "A un D.",
+      "40363": "B, C un E."
+    },
+    "answer": "40360"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Termini_20.webp",
+    "question": "Diennakts tumšais laiks ir:",
+    "answers": {
+      "39850": "No vakara krēslas iestāšanās līdz rīta krēslas izzušanai.",
+      "39851": "No rīta līdz vakaram.",
+      "39852": "No pulksten 22.00 līdz 08.00."
+    },
+    "answer": "39850"
+  },
+  {
+    "media": "bildes_A_kat_3._Priekrocbas_Ar_zmm_8.webp",
+    "question": "Kā ir jārīkojas motocikla vadītājam, krustojumā apgriežoties braukšanai pretējā virzienā?",
+    "answers": {
+      "41516": "Jādod ceļš tikai automobiļa vadītājam.",
+      "41517": "Jādod ceļš tikai autobusa vadītājam.",
+      "41518": "Jādod ceļš abiem transportlīdzekļu vadītājiem.",
+      "41519": "Jāveic manevrs pirmajam."
+    },
+    "answer": "41516"
+  },
+  {
+    "media": "video_A_kat_A_Bstambas_paredzana_Izbrauc_no_DUS1_MP4.webp",
+    "question": "Video jautājums\nKā rīkosieties attēlotajā situācijā?",
+    "answers": {
+      "41106": "Nekavējoties bremzēšu, saglabājot motocikla kontroli.",
+      "41107": "Turpināšu braukt, jo man ir priekšroka.",
+      "41108": "Uzbraukšu ietvei.",
+      "41109": "Sagāzīšu motociklu uz sāniem un ļaušu tam slīdēt pa priekšu."
+    },
+    "answer": "41106"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Brdinjuma_12.webp",
+    "question": "Kura(-as) no attēlotajām ceļa zīmēm brīdina par to, ka tuvojaties vienvirziena ceļa beigām?",
+    "answers": {
+      "40117": "A.",
+      "40118": "B.",
+      "40119": "C.",
+      "40120": "A un C."
+    },
+    "answer": "40117"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Braukanas_skana_un_braukanas_virziena_maia_16.webp",
+    "question": "Pa kuru no attēlotajām trajektorijām drīkst apgriezties braukšanai pretējā virzienā?",
+    "answers": {
+      "39910": "Tikai pa B.",
+      "39911": "Tikai pa A.",
+      "39912": "Pa A un B."
+    },
+    "answer": "39910"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Apstans,_stvana_12.webp",
+    "question": "Vai motocikli pareizi novietoti stāvēšanai?",
+    "answers": {
+      "41354": "Tikai zilais motocikls.",
+      "41355": "Tikai sarkanais motocikls.",
+      "41356": "Abi motocikli novietoti pareizi."
+    },
+    "answer": "41354"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Papildzmes_8.webp",
+    "question": "Kurā virzienā atļauts braukt attēlotajā situācijā?",
+    "answers": {
+      "40233": "Tikai taisni.",
+      "40234": "Taisni un pa labi.",
+      "40235": "Tālāk braukt aizliegts."
+    },
+    "answer": "40233"
+  },
+  {
+    "media": "bildes_A_kat_6._Citi_dalbnieki_9.webp",
+    "question": "Kā rīkosieties attēlotajā situācijā?",
+    "answers": {
+      "40658": "Bremzēšu.",
+      "40659": "Nesamazinot braukšanas ātrumu, turpināšu kustību."
+    },
+    "answer": "40658"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Apdzana,_samainans,_apsteigana_3.webp",
+    "question": "Vai motocikla vadītājam atļauts apdzīt attēlotajā situācijā?",
+    "answers": {
+      "39991": "Atļauts.",
+      "39992": "Aizliegts tikai gadījumos, ja tuvojas transportlīdzekļi no labās puses.",
+      "39993": "Aizliegts jebkurā gadījumā."
+    },
+    "answer": "39991"
+  },
+  {
+    "media": "bildes_A_kat_5._Droa_vadana_6.webp",
+    "question": "Kas ir jāņem vērā motocikla vadītājam, ja pēc ilgstoša sausuma perioda sāk līt lietus?",
+    "answers": {
+      "40518": "Ūdenim sajaucoties ar putekļiem uz brauktuves veidojas slidena netīrumu kārta, pasliktinot riepu saķeri ar brauktuves virsmu.",
+      "40519": "Lietus nomazgās uz brauktuves esošos netīrumus, uzlabojot riepu saķeri ar brauktuves virsmu.",
+      "40520": "Īpaša piesardzība nav nepieciešama, ja riepām ir labs protektors."
+    },
+    "answer": "40518"
+  },
+  {
+    "media": "bildes_A_kat_5._Droa_vadana_31.1.webp",
+    "question": "Kādu attālumu nobrauc motocikls vienā sekundē, braucot ar ātrumu 30 km/h?",
+    "answers": {
+      "40627": "Aptuveni 8 m.",
+      "40628": "Aptuveni 16 m.",
+      "40629": "Aptuveni 12 m."
+    },
+    "answer": "40627"
+  },
+  {
+    "media": "bildes_A_kat_5._Droa_vadana_ce.webp",
+    "question": "Kādu attālumu nobrauc motocikls vienā sekundē, braucot ar ātrumu 90 km/h?",
+    "answers": {
+      "40614": "Aptuveni 25 m.",
+      "40615": "Aptuveni 18 m.",
+      "40616": "Aptuveni 32 m."
+    },
+    "answer": "40614"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Servisa_4.webp",
+    "question": "Par ko informē attēlā redzamā ceļa zīme?",
+    "answers": {
+      "40270": "Virzienā pa labi atrodas jūras pasažieru stacija (osta).",
+      "40271": "Virzienā pa labi atrodas kravas osta.",
+      "40272": "Virzienā pa labi atrodas prāmju osta."
+    },
+    "answer": "40270"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Apzmjumi_10.webp",
+    "question": "Ko apzīmē platās pārtrauktās līnijas brauktuves malā?",
+    "answers": {
+      "40172": "Robežu starp ieskrējiena vai bremzēšanas joslu un pamatjoslu.",
+      "40173": "Ceļa paplašinājumu, kur ir atļauts apstāties un stāvēt.",
+      "40174": "Nomali, kur palaist garām ātrāk braucošos transportlīdzekļus."
+    },
+    "answer": "40172"
+  },
+  {
+    "media": "bildes_A_kat_7._Aizsargtrps_moto.webp",
+    "question": "Kādas bikses ir piemērotas braucienam ar motociklu?",
+    "answers": {
+      "40855": "Īpašās motociklista bikses, kurās ir iestrādāti ceļgalu un gurnu aizsargi.",
+      "40856": "Jebkādas izturīga materiāla garās bikses ar atsevišķiem ceļgalu aizsargiem.",
+      "40857": "Abas minētās atbildes ir pareizas."
+    },
+    "answer": "40857"
+  },
+  {
+    "media": "bildes_D_kat_Braukanas_trums_1_71.webp",
+    "question": "Kādu ātrumu izvēlēsieties attēlotajā situācijā, vadot motociklu?",
+    "answers": {
+      "39981": "Tādu, kas neapdraud satiksmes drošību un atbilst ceļa apstākļiem.",
+      "39982": "Aptuveni 80 km/h, nepārsniedzot to.",
+      "39983": "Ar tādu, lai bremzēšanas ceļš nepārsniegtu 100 m."
+    },
+    "answer": "39981"
+  },
+  {
+    "media": "bildes_A_kat_beigta_balle.webp",
+    "question": "Kādu iespaidu uz transportlīdzekļa vadītāju var atstāt alkohola koncentrācija asinīs, kas ir robežās no 0,2 līdz 0,49 promilēm?",
+    "answers": {
+      "41430": "Nepareizi novērtē attālumus.",
+      "41431": "Samazinās kritiska attieksme pret situāciju.",
+      "41432": "Biežāk kļūdaini novērtē situāciju.",
+      "41433": "Visas minētās atbildes ir pareizas."
+    },
+    "answer": "41433"
+  },
+  {
+    "media": "bildes_A_kat_7._Tehniskais_stvoklis_19.webp",
+    "question": "Attēlotā indikācija mēraparātu panelī informē par to, ka:",
+    "answers": {
+      "40729": "Motora aizdedzes slēdzis ir izslēgtā pozīcijā.",
+      "40730": "Gaisa vārsts ir aizvērtā pozīcijā.",
+      "40731": "Kruīza kontrole ir izslēgta."
+    },
+    "answer": "40729"
+  },
+  {
+    "media": "bildes_A_kat_7._Tehniskais_stvoklis_37.webp",
+    "question": "Kā raksturosiet attēlā redzamo akseleratora sviras satvērienu?",
+    "answers": {
+      "40777": "Svira ir satverta pārāk tālu, kas var būtiski apgrūtināt motocikla vadāmību.",
+      "40778": "Šāds satvēriens ļauj pilnvērtīgi izmantot visu darbības diapazonu.",
+      "40779": "Drošs satvēriens, jo plauksta neveido leņķi pret roku."
+    },
+    "answer": "40777"
+  },
+  {
+    "media": "video_A_kat_A_Citu_satiksmes_dalbnieku_intereu_ievroana_Gjju_preja1_MP4.webp",
+    "question": "Video jautājums\nKā rīkosieties attēlotajā situācijā?",
+    "answers": {
+      "41140": "Apstāšos pirms gājēju pārejas.",
+      "41141": "Palielināšu ātrumu, kamēr gājējs nešķērso brauktuvi pa gājēju pāreju.",
+      "41142": "Signalizēšu, lai brīdinātu satiksmes dalībniekus, un turpināšu braukt."
+    },
+    "answer": "41140"
+  },
+  {
+    "media": "bildes_b_25_Pirma_palidziba_25_11.webp",
+    "question": "Kurā attēlā pareizi tiek atbrīvoti elpceļi cietušajam, kurš zaudējis samaņu?",
+    "answers": {
+      "39659": "B.",
+      "39660": "A.",
+      "39661": "Abi paņēmieni ir pareizi.",
+      "39662": "Abi paņēmieni nav pareizi."
+    },
+    "answer": "39659"
+  },
+  {
+    "media": "bildes_A_kat_5._Droa_vadana_17.webp",
+    "question": "Kā ir jārīkojas motocikla vadītājam intensīvas bremzēšanas laikā?",
+    "answers": {
+      "40566": "Nesaliecot rokas elkoņos, ar ceļgaliem ir cieši jāsatver motocikla degvielas bāka.",
+      "40567": "Jāliec ķermenis uz priekšu, radot lielāku piespiedējspēku.",
+      "40568": "Atbalstot kājas pret kāpšļiem, nedaudz jāpieceļas kājās, radot lielāku gaisa pretestību."
+    },
+    "answer": "40566"
+  },
+  {
+    "media": "bildes_A_kat_5._Droa_vadana_11.webp",
+    "question": "Kāda motocikla vadītāja rīcība apdraud ceļu satiksmes drošību?",
+    "answers": {
+      "41054": "Pārējo transportlīdzekļu vadītāju interešu ignorēšana.",
+      "41055": "Drošas distances un droša intervāla ievērošana.",
+      "41056": "Braukšana ar līdzīgu ātrumu kā pārējai transportlīdzekļu plūsmai.",
+      "41057": "Visas minētās atbildes ir pareizas."
+    },
+    "answer": "41054"
+  },
+  {
+    "media": "bildes_b_25_Pirma_palidziba_25_15.webp",
+    "question": "Kurā no attēliem cietušais pareizi novietots stabilā sānu pozā?",
+    "answers": {
+      "4405": "A.",
+      "4406": "B."
+    },
+    "answer": "4405"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Nordjuma_3.webp",
+    "question": "Ko norāda attēlotā ceļa zīme?",
+    "answers": {
+      "40300": "Pa labo joslu atļauts braukt pasažieru sabiedriskajiem transportlīdzekļiem.",
+      "40301": "Pa labo joslu atļauts braukt elektromobiļiem un taksometriem.",
+      "40302": "Pa labo joslu atļauts braukt divriteņu mopēdiem un motocikliem.",
+      "40303": "Visas minētās atbildes ir pareizas."
+    },
+    "answer": "40303"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Termini_27.webp",
+    "question": "Kurā no attēliem transportlīdzekļa vadītājs ievēro ceļu satiksmes drošības prasības?",
+    "answers": {
+      "39863": "B.",
+      "39864": "A.",
+      "39865": "A un B."
+    },
+    "answer": "39863"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Termini_11.webp",
+    "question": "Cik brauktuvju ir attēlā redzamajā situācijā?",
+    "answers": {
+      "39827": "Viena.",
+      "39828": "Divas.",
+      "39829": "Četras."
+    },
+    "answer": "39827"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Servisa_5.webp",
+    "question": "Par ko informē attēlā redzamā ceļa zīme?",
+    "answers": {
+      "40273": "Virzienā pa labi atrodas kravas osta.",
+      "40274": "Virzienā pa labi atrodas jūras pasažieru stacija (osta).",
+      "40275": "Virzienā pa labi atrodas prāmju osta."
+    },
+    "answer": "40273"
+  },
+  {
+    "media": "bildes_A_kat_3._Priekrocbas_Viendas_nozmes_2.webp",
+    "question": "Kā ir jārīkojas motocikla vadītājam, šķērsojot krustojumu?",
+    "answers": {
+      "40475": "Jādod ceļš zilā automobiļa vadītājam.",
+      "40476": "Jādod ceļš sarkanā automobiļa vadītājam.",
+      "40477": "Jādod ceļš abu transportlīdzekļu vadītājiem.",
+      "40478": "Jāšķērso krustojums pirmajam."
+    },
+    "answer": "40475"
+  },
+  {
+    "media": "bildes_A_kat_6._Citi_dalbnieki_dz.z..webp",
+    "question": "Kuram transportlīdzekļa vadītājam ir priekšroka attēlotajā situācijā?",
+    "answers": {
+      "41487": "Velosipēda vadītājam.",
+      "41488": "Motocikla vadītājam."
+    },
+    "answer": "41487"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Papildzmes_9.webp",
+    "question": "Uz kuru ceļa daļu attiecas attēlotās ceļa zīmes?",
+    "answers": {
+      "40236": "Uz tramvaja sliežu klātni.",
+      "40237": "Uz bezsliežu transportlīdzekļiem paredzēto brauktuves daļu.",
+      "40238": "Uz visu ceļu (tālāk braukt aizliegts)."
+    },
+    "answer": "40236"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Rkojuma_12.webp",
+    "question": "Kuros virzienos attēlotajā situācijā atļauts braukt motocikla vadītājam?",
+    "answers": {
+      "40994": "Visos virzienos.",
+      "40995": "Pa labi, pa kreisi un apgriezties braukšanai pretējā virzienā.",
+      "40996": "Tikai taisni."
+    },
+    "answer": "40994"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Brdinjuma_10.webp",
+    "question": "Par ko brīdina attēlotā ceļa zīme?",
+    "answers": {
+      "40111": "Par to, ka uz ceļa tiek veikti ceļa remontdarbi.",
+      "40112": "Par to, ka blakus ceļam tiek veikti jebkādi darbi.",
+      "40113": "Abas minētās atbildes ir pareizas."
+    },
+    "answer": "40113"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Aizlieguma_23.webp",
+    "question": "Kuros gadījumos motocikla vadītājam atļauts iebraukt attēlā redzamās ceļa zīmes apzīmētajā zonā?",
+    "answers": {
+      "40429": "Ja motocikla īpašnieks dzīvo šajā zonā.",
+      "40430": "Ja motocikla īpašnieks strādā šajā zonā.",
+      "40431": "Abos iepriekšminētajos gadījumos."
+    },
+    "answer": "40431"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Apzmjumi_18.webp",
+    "question": "Ko apzīmē attēlotais ceļa apzīmējums – bultas uz brauktuves?",
+    "answers": {
+      "40195": "Brīdina par nepārtrauktās līnijas tuvošanos.",
+      "40196": "Apzīmē joslu, kur mainīsies braukšanas virziens uz pretējo.",
+      "40197": "Brīdina par tuvojošos ceļa sašaurinājumu."
+    },
+    "answer": "40195"
+  },
+  {
+    "media": "bildes_A_kat_7._Tehniskais_stvoklis_35.webp",
+    "question": "Ko ieslēdz ar attēlā redzamo slēdzi?",
+    "answers": {
+      "40772": "Elektrisko starteri.",
+      "40773": "Skaņas signālu.",
+      "40774": "Gaismas virzienrādītājus."
+    },
+    "answer": "40772"
+  },
+  {
+    "media": "bildes_A_kat_7._Tehniskais_stvoklis_38.webp",
+    "question": "Kā vērtējat akseleratora sviras tehnisko stāvokli, ja pagriežot sviru pilnīgi atvērtā pozīcijā un atlaižot to, svira nemaina savu stāvokli?",
+    "answers": {
+      "40780": "Svira nav tehniskā kārtībā, jo, atbrīvojot to, tā neatgriežas sākuma stāvoklī.",
+      "40781": "Svira ir labā tehniskā kārtībā, jo to ir iespējams pagriezt.",
+      "40782": "Svira ir labā tehniskā kārtībā, jo spēj saglabāt stāvokli, kādā tā ir pagriezta."
+    },
+    "answer": "40780"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Braukanas_skana_un_braukanas_virziena_maia_19.webp",
+    "question": "Ja izvēlējāties nepareizu maršrutu, vai atļauts apgriezties braukšanai pretējā virzienā attēlotajā situācijā?",
+    "answers": {
+      "39915": "Aizliegts.",
+      "39916": "Atļauts, dodot ceļu autobusa vadītājam."
+    },
+    "answer": "39915"
+  },
+  {
+    "media": "video_A_kat_A_Citu_satiksmes_dalbnieku_intereu_ievroana_Brns_aiz_autobusa1_MP4.webp",
+    "question": "Video jautājums\nKā Jums ir jārīkojas attēlotajā situācijā?",
+    "answers": {
+      "41129": "Nekavējoties jābremzē.",
+      "41130": "Nesamazinot ātrumu, ir jāpievērš uzmanība, lietojot skaņas signālu.",
+      "41131": "Daļēji jābrauc pa pretējā braukšanas virziena joslu, lai palielinātu atstatumu starp manis vadīto motociklu un vieglo automobili, kas ir apstājies pieturā.",
+      "41132": "Strauji jāsagriež stūre pa labi."
+    },
+    "answer": "41129"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Apstans,_stvana_9.webp",
+    "question": "Vai motocikls pareizi novietots stāvēšanai?",
+    "answers": {
+      "39940": "Pareizi.",
+      "39941": "Nepareizi."
+    },
+    "answer": "39940"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Transportldzeku_izkrtojums_uz_brauktuves_16.webp",
+    "question": "Vai motocikla vadītājam atļauts šķērsot krustojumu pa tramvaja sliežu klātni plkst. 18:46?",
+    "answers": {
+      "41403": "Atļauts.",
+      "41404": "Aizliegts."
+    },
+    "answer": "41403"
+  },
+  {
+    "media": "bildes_A_kat_beigta_balle.webp",
+    "question": "Kurš no apgalvojumiem ir pareizs?",
+    "answers": {
+      "41454": "Alkohola lietošanas negatīvās sekas var ievērojami mazināt transportlīdzekļa vadītāja braukšanas spējas un palielināt satiksmes negadījuma risku.",
+      "41455": "Brīdī, kad alkohola vairāk nav organismā, tomēr ir jūtams paģiru sindroms, nav iemesla atturēties no transportlīdzekļa vadīšanas.",
+      "41456": "Brīdī, kad alkohola koncentrācija organismā ir sasniegusi pieļaujamās robežas, transportlīdzekļa vadītājs ir pilnībā gatavs droši vadīt transportlīdzekli."
+    },
+    "answer": "41454"
+  },
+  {
+    "media": "bildes_A_kat_apstajies-pirms-atsledzies.webp",
+    "question": "Kura no minētajām pazīmēm liecina par nogurumu – brīdi, kad ir nekavējoties jāpārtrauc motocikla vadīšana?",
+    "answers": {
+      "41498": "Jūs jūtat, ka novēloti reaģējat uz notikumiem (reakcijas laiks palielinās).",
+      "41499": "Jūs vēlaties atvērt aizsargķiveres vizieri un ieelpot svaigu gaisu.",
+      "41500": "Jums šķiet, ka sākat svīst."
+    },
+    "answer": "41498"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Aizlieguma_13.webp",
+    "question": "Ko apzīmē attēlā redzamā ceļa zīme?",
+    "answers": {
+      "40398": "Apzīmē visu ierobežojumu beigas.",
+      "40399": "Apzīmē tikai maksimālā ātruma ierobežojuma zonas beigas.",
+      "40400": "Apzīmē tikai apstāšanās un stāvēšanas ierobežojuma zonas beigas."
+    },
+    "answer": "40398"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Apzmjumi_8.webp",
+    "question": "Par ko brīdina attēlotais ceļa apzīmējums?",
+    "answers": {
+      "40168": "Par nepārtrauktās līnijas tuvošanos.",
+      "40169": "Par to, ka atrodaties uz ātrgaitas ceļa."
+    },
+    "answer": "40168"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Apdzana,_samainans,_apsteigana_12.webp",
+    "question": "Vai motocikla vadītājam atļauts apsteigt sarkano automobili attēlotajā veidā ārpus apdzīvotām vietām?",
+    "answers": {
+      "40012": "Aizliegts.",
+      "40013": "Atļauts."
+    },
+    "answer": "40012"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Apzmjumi_19.webp",
+    "question": "Ko apzīmē ar dzeltenu nepārtrauktu līniju, kas uzkrāsota uz brauktuves malas vai apmales?",
+    "answers": {
+      "40198": "Vietu, kur aizliegts apstāties un stāvēt.",
+      "40199": "Taksometru stāvvietas robežas.",
+      "40200": "Pagaidu stāvvietu."
+    },
+    "answer": "40198"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Termini_14.webp",
+    "question": "Attēlotajā vietā jāievēro noteikumi, kas nosaka braukšanas kārtību:",
+    "answers": {
+      "39836": "Dzīvojamajā zonā.",
+      "39837": "Apdzīvotā vietā.",
+      "39838": "Parkos un blakusteritorijās."
+    },
+    "answer": "39836"
+  },
+  {
+    "media": "bildes_A_kat_6._Citi_dalbnieki_4.webp",
+    "question": "Kuram transportlīdzekļa vadītājam ir priekšroka attēlotajā situācijā?",
+    "answers": {
+      "40648": "Velosipēda vadītājam.",
+      "40649": "Motocikla vadītājam."
+    },
+    "answer": "40648"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Brdinjuma_19.webp",
+    "question": "Kuras no ceļa zīmēm brīdina par to, ka uz brauktuves var būt cilvēki?",
+    "answers": {
+      "40139": "B, D un E.",
+      "40140": "A, B un D.",
+      "40141": "D, E un F.",
+      "40142": "B, C un D."
+    },
+    "answer": "40139"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Transportldzeku_izkrtojums_uz_brauktuves_6.webp",
+    "question": "Vai motocikla vadītājs ir ieņēmis pareizu braukšanas joslu, lai ilgstoši brauktu taisni?",
+    "answers": {
+      "40043": "Ir ieņēmis.",
+      "40044": "Nav ieņēmis."
+    },
+    "answer": "40043"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Braukanas_skana_un_braukanas_virziena_maia_5.webp",
+    "question": "Kurš no vadītājiem ir ieņēmis pareizu stāvokli uz brauktuves, lai brauktu pa loku?",
+    "answers": {
+      "39882": "Abu transportlīdzekļu vadītāji.",
+      "39883": "Tikai automobiļa vadītājs.",
+      "39884": "Tikai motocikla vadītājs."
+    },
+    "answer": "39882"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Braukanas_trums_2.webp",
+    "question": "Turpinot kustību, Jūsu vadītā motocikla braukšanas ātrums nedrīkst pārsniegt:",
+    "answers": {
+      "39959": "20 km/h.",
+      "39960": "30 km/h.",
+      "39961": "50 km/h."
+    },
+    "answer": "39959"
+  },
+  {
+    "media": "bildes_A_kat_5._Droa_vadana_10.webp",
+    "question": "Ko apdzīšanas manevra laikā ir visgrūtāk novērtēt?",
+    "answers": {
+      "40530": "Pretim braucošo transportlīdzekļu ātrumu.",
+      "40531": "Sava motocikla spēju paātrināties.",
+      "40532": "Apdzenamā transportlīdzekļa ātrumu."
+    },
+    "answer": "40530"
+  },
+  {
+    "media": "bildes_A_kat_5._Droa_vadana_5.webp",
+    "question": "Kā ir jārīkojas motocikla vadītājam, pēdējā brīdī pamanot peļķi uz brauktuves, kuru nav iespējams apbraukt?",
+    "answers": {
+      "40515": "Jāsamazina motora apgriezienu skaits, uzmanīgi piebremzējot.",
+      "40516": "Jāpalielina braukšanas ātrums.",
+      "40517": "Jāieslēdz neitrālais pārnesums."
+    },
+    "answer": "40515"
+  },
+  {
+    "media": "bildes_D_kat_painkillers.webp",
+    "question": "Ārsts jums izraksta lietošanai kādu medikamentu. Kā uzzināt, vai šis medikaments varētu pasliktināt transportlīdzekļa vadīšanas spējas?",
+    "answers": {
+      "41327": "Uzmanīgi jāizlasa medikamenta lietošanas instrukciju.",
+      "41328": "Jājautā ārstam.",
+      "41329": "Jājautā farmaceitam.",
+      "41330": "Visas minētās atbildes ir pareizas."
+    },
+    "answer": "41330"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Apstans,_stvana_6.webp",
+    "question": "Vai motocikli pareizi novietoti stāvēšanai?",
+    "answers": {
+      "41351": "Abi motocikli novietoti pareizi.",
+      "41352": "Tikai zilais motocikls.",
+      "41353": "Tikai sarkanais motocikls."
+    },
+    "answer": "41351"
+  },
+  {
+    "media": "bildes_b_25_Pirma_palidziba_25_12.webp",
+    "question": "Kurā attēlā pareizi tiek pārbaudīts vai cietušais elpo?",
+    "answers": {
+      "39663": "A.",
+      "39664": "B.",
+      "39665": "Abi paņēmieni ir pareizi.",
+      "39666": "Abi paņēmieni nav pareizi."
+    },
+    "answer": "39663"
+  },
+  {
+    "media": "bildes_A_kat_7._Tehniskais_stvoklis_brauc_no_priekas.webp",
+    "question": "Kas liecina par to, ka aizmugurējā riepā ir būtiski (par 90%) samazinājies gaisa spiediens?",
+    "answers": {
+      "40711": "Braucot taisnā virzienā, aizmugurējais ritenis jūtami pārvietojas šķērsvirzienā (staigā).",
+      "40712": "Braucot taisnā virzienā, priekšējais ritenis jūtami pārvietojas šķērsvirzienā (staigā).",
+      "40713": "Motociklu ir grūti pagriezt."
+    },
+    "answer": "40711"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Papildzmes_14.webp",
+    "question": "Ko kontrolē stacionārais fotoradars?",
+    "answers": {
+      "40884": "Transportlīdzekļu braukšanas ātrumu, OCTA un tehniskās apskates derīgumu.",
+      "40885": "Transportlīdzekļu braukšanas ātrumu un OCTA derīgumu.",
+      "40886": "Transportlīdzekļu braukšanas ātrumu un to, vai motocikla vadītājs lieto aizsargķiveri."
+    },
+    "answer": "40884"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Transportldzeku_izkrtojums_uz_brauktuves_14.webp",
+    "question": "Vai motocikla vadītājam attēlotajā situācijā atļauts braukt pa tramvaja sliežu klātni?",
+    "answers": {
+      "40063": "Atļauts.",
+      "40064": "Aizliegts."
+    },
+    "answer": "40063"
+  },
+  {
+    "media": "bildes_C_kat_20.Tehniskais_stavoklis__aprkojums_drosbas_ierices_arejas_apgaismes_ierices_apstajies-pirms-atsledzies.webp",
+    "question": "“Tā kā esmu labs vadītājs, es spēšu vadīt motociklu pietiekami labi arī tad, ja būšu miegains.” Kā vērtēt šādu motocikla vadītāja apgalvojumu?",
+    "answers": {
+      "41396": "Tas ir nepareizs.",
+      "41397": "Tas ir pareizs."
+    },
+    "answer": "41396"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Apzmjumi_22.webp",
+    "question": "Vai Jums jānogriežas pa kreisi?",
+    "answers": {
+      "40207": "Ir jānogriežas.",
+      "40208": "Nav jānogriežas."
+    },
+    "answer": "40207"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Aizlieguma_5.webp",
+    "question": "Kurā gadījumā motocikla vadītājam atļauts iebraukt attēlā redzamās ceļa zīmes apzīmētajā zonā?",
+    "answers": {
+      "40385": "Atļauts, ja motocikla īpašnieks dzīvo šajā zonā.",
+      "40386": "Atļauts jebkurā gadījumā."
+    },
+    "answer": "40385"
+  },
+  {
+    "media": "bildes_A_kat_7._Aizsargtrps_42.webp",
+    "question": "Ko norāda marķējums ķiveres iekšpusē?",
+    "answers": {
+      "40988": "Ķiveres atbilstību drošības standartiem.",
+      "40989": "Maksimāli pieļaujamā braukšanas ātruma indeksu, kuram ir paredzēta konkrētā ķivere.",
+      "40990": "Ķiveres lietošanas tipu.",
+      "40991": "Visas minētās atbildes ir pareizas."
+    },
+    "answer": "40988"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Braukanas_trums_5.webp",
+    "question": "Turpinot kustību, Jūsu vadītā motocikla braukšanas ātrums nedrīkst pārsniegt:",
+    "answers": {
+      "39968": "50 km/h.",
+      "39969": "90 km/h."
+    },
+    "answer": "39968"
+  },
+  {
+    "media": "bildes_A_kat_6._Citi_dalbnieki_11.webp",
+    "question": "Kā jārīkojas motocikla vadītājam attēlotajā situācijā?",
+    "answers": {
+      "40662": "Jādod ceļš velosipēda vadītājam.",
+      "40663": "Pirms manevra jāpārliecinās par to, vai netiks traucēti automobiļi, kas brauc pa šķērsojamo ceļu."
+    },
+    "answer": "40662"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Rkojuma_6.webp",
+    "question": "Kuros virzienos ir atļauts braukt attēlotajā situācijā?",
+    "answers": {
+      "40349": "A, B un C.",
+      "40350": "B un C.",
+      "40351": "C."
+    },
+    "answer": "40349"
+  },
+  {
+    "media": "bildes_A_kat_3._Priekrocbas_Reguljamos_1.webp",
+    "question": "Kā rīkosieties, krustojumā nogriežoties pa labi?",
+    "answers": {
+      "40456": "Šķērsošu krustojumu pirmais.",
+      "40457": "Došu ceļu kravas automobiļa vadītājam."
+    },
+    "answer": "40456"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Apzmjumi_2.webp",
+    "question": "Kurš no vertikālajiem ceļa apzīmējumiem apzīmē drošības saliņas apbraukšanu tikai pa labo pusi?",
+    "answers": {
+      "40150": "C.",
+      "40151": "A.",
+      "40152": "B."
+    },
+    "answer": "40150"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Aizlieguma_1.webp",
+    "question": "Kuros virzienos atļauts braukt attēlotajā situācijā?",
+    "answers": {
+      "40370": "A, B un D.",
+      "40371": "A un D.",
+      "40372": "A un B.",
+      "40373": "C un D."
+    },
+    "answer": "40370"
+  },
+  {
+    "media": "bildes_A_kat_5._Droa_vadana_26.webp",
+    "question": "Ar kādu ātrumu braucot līkumā, nesasvērsiet ķermeni uz līkuma iekšmalu?",
+    "answers": {
+      "40605": "Braucot ar aptuveno ātrumu 10 km/h.",
+      "40606": "Braucot ar aptuveno ātrumu 50 km/h.",
+      "40607": "Braucot ar aptuveno ātrumu 80 km/h."
+    },
+    "answer": "40605"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Braukanas_skana_un_braukanas_virziena_maia_7.webp",
+    "question": "Kurš no vadītājiem ir ieņēmis pareizu stāvokli uz brauktuves, lai veiktu manevru?",
+    "answers": {
+      "39888": "Abu transportlīdzekļu vadītāji.",
+      "39889": "Automobiļa vadītājs.",
+      "39890": "Motocikla vadītājs."
+    },
+    "answer": "39888"
+  },
+  {
+    "media": "bildes_b_25_Pirma_palidziba_25_15.1.webp",
+    "question": "Kurā no attēliem cietušais pareizi novietots stabilā sānu pozā?",
+    "answers": {
+      "4407": "A.",
+      "4408": "B."
+    },
+    "answer": "4408"
+  },
+  {
+    "media": "bildes_A_kat_6._Citi_dalbnieki_6.webp",
+    "question": "Kā jārīkojas motocikla vadītājam attēlotajā situācijā?",
+    "answers": {
+      "40652": "Jādod ceļš gājējam.",
+      "40653": "Jāturpina kustību."
+    },
+    "answer": "40652"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Braukanas_trums_10.webp",
+    "question": "Turpinot kustību, Jūsu vadītā motocikla braukšanas ātrums nedrīkst pārsniegt:",
+    "answers": {
+      "39984": "50 km/h.",
+      "39985": "30 km/h.",
+      "39986": "90 km/h."
+    },
+    "answer": "39984"
+  },
+  {
+    "media": "bildes_A_kat_7._Tehniskais_stvoklis_34.webp",
+    "question": "Motocikla motors ir sasniedzis darba temperatūru. Kādas sekas radīs braukšana ar ieslēgtu auksta motora iedarbināšanas vārstu (čoku)?",
+    "answers": {
+      "40769": "Būs traucēti motora darbības režīmi.",
+      "40770": "Pastiprināti dils piedziņas ķēde.",
+      "40771": "Motocikls būs dinamiskāks, jo būs paaugstināti motora apgriezieni."
+    },
+    "answer": "40769"
+  },
+  {
+    "media": "bildes_A_kat_7._Tehniskais_stvoklis_18.webp",
+    "question": "Attēlotā indikācija mēraparātu panelī informē par to, ka:",
+    "answers": {
+      "40726": "Motora aizdedzes slēdzis ir ieslēgtā pozīcijā.",
+      "40727": "Gaisa vārsts ir atvērtā pozīcijā.",
+      "40728": "Kruīza kontrole ir ieslēgta."
+    },
+    "answer": "40726"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Braukanas_skana_un_braukanas_virziena_maia_6.webp",
+    "question": "Kurš no vadītājiem ir ieņēmis pareizu stāvokli uz brauktuves, lai veiktu kreiso pagrieziena manevru?",
+    "answers": {
+      "39885": "Automobiļa vadītājs.",
+      "39886": "Motocikla vadītājs.",
+      "39887": "Abu transportlīdzekļu vadītāji."
+    },
+    "answer": "39885"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Apstans,_stvana_5.webp",
+    "question": "Kurā no attēlotajām vietām ir atļauts apstāties?",
+    "answers": {
+      "39928": "B.",
+      "39929": "A.",
+      "39930": "A vai B."
+    },
+    "answer": "39928"
+  },
+  {
+    "media": "video_A_kat_A_Citu_satiksmes_dalbnieku_intereu_ievroana_Akl_zona1_MP4.webp",
+    "question": "Video jautājums\nKā ir jārīkojas motocikla vadītājam attēlotajā situācijā?",
+    "answers": {
+      "41123": "Nekavējoties jāizbrauc no kravas automobiļa aklās zonas.",
+      "41124": "Jāturpina kustību.",
+      "41125": "Jāsignalizē un jāpavirzās tuvāk brauktuves labajai malai."
+    },
+    "answer": "41123"
+  },
+  {
+    "media": "bildes_A_kat_beigta_balle.webp",
+    "question": "Vai alkohols ietekmē spēju novērtēt braukšanas ātrumu?",
+    "answers": {
+      "41428": "Pasliktina spēju novērtēt.",
+      "41429": "Neizmaina spēju novērtēt."
+    },
+    "answer": "41428"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Apdzana,_samainans,_apsteigana_10.webp",
+    "question": "Vai motocikla vadītājam atļauts apdzīt attēlotajā situācijā?",
+    "answers": {
+      "40007": "Aizliegts.",
+      "40008": "Atļauts."
+    },
+    "answer": "40007"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Apzmjumi_7.webp",
+    "question": "Ko apzīmē divas nepārtrauktas līnijas ceļa vidū?",
+    "answers": {
+      "40165": "Sadala pretējos virzienos ceļu ar trijām vai vairākām braukšanas joslām.",
+      "40166": "Atdala braukšanas joslas uz vienvirziena ceļa.",
+      "40167": "Brīdina par braukšanas virziena maiņu."
+    },
+    "answer": "40165"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Termini_4.webp",
+    "question": "Motocikla vadītājs ir apturējis motociklu un trīs minūtes runā pa tālruni. Minētā situācija tiek uzskatīta par transportlīdzekļa:",
+    "answers": {
+      "39807": "Stāvēšanu.",
+      "39808": "Apstāšanos."
+    },
+    "answer": "39807"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Nordjuma_13.webp",
+    "question": "Vai motocikla vadītājam ir atļauts braukt pa attēlā redzamo ceļu?",
+    "answers": {
+      "40329": "Atļauts.",
+      "40330": "Aizliegts."
+    },
+    "answer": "40329"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Rkojuma_11.webp",
+    "question": "Kura no attēlotajām ceļa zīmēm norāda, ka krustojumā jānogriežas pa kreisi pirms zīmes?",
+    "answers": {
+      "40364": "B.",
+      "40365": "A.",
+      "40366": "A un B."
+    },
+    "answer": "40364"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Brdinjuma_16.webp",
+    "question": "Par ko brīdina attēlotā ceļa zīme?",
+    "answers": {
+      "40130": "Par iespējamu sastrēgumu uz ceļa.",
+      "40131": "Par stāvvietām brauktuves labajā malā.",
+      "40132": "Par ātrgaitas ceļu."
+    },
+    "answer": "40130"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Termini_9.webp",
+    "question": "Attēlotajā situācijā motocikla vadītājs atrodas:",
+    "answers": {
+      "39820": "Uz galvenā ceļa.",
+      "39821": "Uz mazāksvarīga ceļa.",
+      "39822": "Vienādas nozīmes krustojumā.",
+      "39823": "Regulējamā krustojumā."
+    },
+    "answer": "39820"
+  },
+  {
+    "media": "bildes_A_kat_5._Droa_vadana_26.webp",
+    "question": "Kā braukšanas ātruma palielināšana pagriezienā ietekmē centrbēdzes spēku?",
+    "answers": {
+      "40595": "Centrbēdzes spēks palielinās.",
+      "40596": "Centrbēdzes spēks nemainās.",
+      "40597": "Centrbēdzes spēks mazinās."
+    },
+    "answer": "40595"
+  },
+  {
+    "media": "bildes_A_kat_5._Droa_vadana_21.webp",
+    "question": "Kādu distanci var uzskatīt par optimālu?",
+    "answers": {
+      "40569": "Distanci, kas ir garāka nekā apstāšanās ceļš.",
+      "40570": "Distanci, kas ir vienāda ar bremzēšanas ceļu.",
+      "40571": "Distanci, kas ir vienāda ar apstāšanās ceļu.",
+      "40572": "Distanci, kas ir vienāda ar apstāšanās un bremzēšanas ceļu summu."
+    },
+    "answer": "40569"
+  },
+  {
+    "media": "bildes_A_kat_5._Droa_vadana_8.webp",
+    "question": "Vai uzbraukšana ceļa horizontālajiem apzīmējumiem var ietekmēt motocikla vadāmību?",
+    "answers": {
+      "40524": "Var jebkurā gadījumā.",
+      "40525": "Var tikai pēc lietus.",
+      "40526": "Nevar ietekmēt, jo apzīmējumiem ir īpaša abrazīva virskārta."
+    },
+    "answer": "40524"
+  },
+  {
+    "media": "bildes_A_kat_3._Priekrocbas_Reguljamos_6_1.webp",
+    "question": "Kā ir jārīkojas motocikla vadītājam, šķērsojot krustojumu?",
+    "answers": {
+      "41209": "Jāšķērso krustojums pirmajam.",
+      "41210": "Jādod ceļš kravas automobiļa vadītājam."
+    },
+    "answer": "41209"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Apzmjumi_20.webp",
+    "question": "Ko apzīmē dzeltenais ceļa apzīmējums?",
+    "answers": {
+      "40201": "Pasažieru sabiedrisko transportlīdzekļu pieturas vai taksometru stāvvietas zonu.",
+      "40202": "Vietu, kur aizliegts apstāties un stāvēt jebkādiem transportlīdzekļiem."
+    },
+    "answer": "40201"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Transportldzeku_izkrtojums_uz_brauktuves_21.webp",
+    "question": "Vai motocikla vadītājam atļauts šķērsot krustojumu taisnā virzienā no tramvaja sliežu klātnes?",
+    "answers": {
+      "40075": "Aizliegts.",
+      "40076": "Atļauts."
+    },
+    "answer": "40075"
+  },
+  {
+    "media": "bildes_A_kat_3._Priekrocbas_Mainot_virzienu_6.webp",
+    "question": "Vai attēlotajā situācijā, pārkārtojoties uz kreiso joslu, motocikla vadītājam jādod ceļš automobilim, kas brauc pa to?",
+    "answers": {
+      "40499": "Ir jādod ceļš.",
+      "40500": "Nav jādod, jo darbojas labās rokas princips."
+    },
+    "answer": "40499"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Transportldzeku_izkrtojums_uz_brauktuves_32.webp",
+    "question": "Kurā gadījumā atļauts iebraukt velojoslā?",
+    "answers": {
+      "40081": "Lai to šķērsotu vietās, kur līnija ir pārtraukta.",
+      "40082": "Lai izlaistu pasažierus brauktuves malā.",
+      "40083": "Lai novietotu transportlīdzekli stāvēšanai vietās, kur līnija ir pārtraukta."
+    },
+    "answer": "40081"
+  },
+  {
+    "media": "bildes_A_kat_5._Droa_vadana_23.webp",
+    "question": "Kas ir jāapzinās motocikla vadītājam, braucot diennakts tumšajā laikā?",
+    "answers": {
+      "40584": "Redzamība ir ierobežota (samazināts redzamības attālums).",
+      "40585": "Citiem ceļu satiksmes dalībniekiem motocikls ir grūti pamanāms.",
+      "40586": "Citiem ceļu satiksmes dalībniekiem ir grūti noteikt motocikla braukšanas ātrumu.",
+      "40587": "Visas minētās atbildes ir pareizas."
+    },
+    "answer": "40587"
+  },
+  {
+    "media": "bildes_A_kat_5._Droa_vadana_9.webp",
+    "question": "Kā ir jārīkojas motocikla vadītājam, mainoties asfaltbetona ceļa segumam uz grants ceļa segumu?",
+    "answers": {
+      "40527": "Jāizvēlas atbilstošs ātrums un jāizvairās no straujiem manevriem.",
+      "40528": "Tālāk braukt ar motociklu nav ieteicams.",
+      "40529": "Nedaudz ir jāpalielina braukšanas ātrums, lai mazāk būtu jūtama grants ceļa seguma ietekme uz stūri."
+    },
+    "answer": "40527"
+  },
+  {
+    "media": "video_A_kat_A_Bstambas_paredzana_Avrijas_zme1_MP4.webp",
+    "question": "Video jautājums\nKā Jums ir jārīkojas attēlotajā situācijā?",
+    "answers": {
+      "41068": "Jāsamazina ātrums un jābūt gatavam nekavējoties apturēt motociklu.",
+      "41069": "Nesamazinot ātrumu, ir jāapbrauc šķērslis pa pretējā virziena braukšanas joslu.",
+      "41070": "Jāieslēdz avārijas gaismas signalizācija un jāturpina ceļš.",
+      "41071": "Jāturpina ceļš un jābrīdina pārējie autovadītāji, periodiski pārslēdzot lukturu gaismas."
+    },
+    "answer": "41068"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Papildzmes_7.webp",
+    "question": "Kurš no transportlīdzekļiem ir apstājies ceļa zīmes “Apstāties aizliegts” darbības zonā?",
+    "answers": {
+      "40230": "Automobilis.",
+      "40231": "Motocikls.",
+      "40232": "Abi transportlīdzekļi."
+    },
+    "answer": "40231"
+  },
+  {
+    "media": "bildes_A_kat_6._Citi_dalbnieki_1.webp",
+    "question": "Kura transportlīdzekļa vadītājam ir priekšroka attēlotajā situācijā?",
+    "answers": {
+      "40642": "Velosipēda vadītājam.",
+      "40643": "Motocikla vadītājam."
+    },
+    "answer": "40642"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Apdzana,_samainans,_apsteigana_7.webp",
+    "question": "Vai motocikla vadītājam atļauts apdzīt attēlotajā situācijā?",
+    "answers": {
+      "40001": "Atļauts.",
+      "40002": "Aizliegts."
+    },
+    "answer": "40001"
+  },
+  {
+    "media": "bildes_A_kat_7._Tehniskais_stvoklis_14.webp",
+    "question": "Motocikls ir izvēlēts atbilstoši, ja:",
+    "answers": {
+      "40786": "Tā vadītājs, sēžot uz motocikla, ar pēdām var brīvi aizsniegt zemi.",
+      "40787": "Tā vadītājs, sēžot uz motocikla, pēdas var brīvi novietot uz kāpšļiem.",
+      "40788": "Stāvot blakus motociklam, vadītāja jostasvieta ir vienā līmenī ar motocikla krēsla augstumu."
+    },
+    "answer": "40786"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Braukanas_skana_un_braukanas_virziena_maia_10.webp",
+    "question": "Kurš no vadītājiem ir ieņēmis pareizu stāvokli uz brauktuves, lai veiktu kreisā pagrieziena manevru?",
+    "answers": {
+      "39895": "Automobiļa vadītājs.",
+      "39896": "Motocikla vadītājs.",
+      "39897": "Abu transportlīdzekļu vadītāji."
+    },
+    "answer": "39895"
+  },
+  {
+    "media": "bildes_C_kat_20.Tehniskais_stavoklis__aprkojums_drosbas_ierices_arejas_apgaismes_ierices_apstajies-pirms-atsledzies.webp",
+    "question": "Kurā diennakts laikā transportlīdzekļa vadītājam jārēķinās ar lielāku miegainības iespēju?",
+    "answers": {
+      "41229": "No pulksten 2.00 līdz 5.00 naktī.",
+      "41230": "No pulksten 19.00 līdz 23.00."
+    },
+    "answer": "41229"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Transportldzeku_izkrtojums_uz_brauktuves_3.webp",
+    "question": "Cik braukšanas joslu ir attēlotajam ceļam?",
+    "answers": {
+      "40033": "Divas joslas.",
+      "40034": "Trīs joslas.",
+      "40035": "Viena josla.",
+      "40036": "Četras joslas."
+    },
+    "answer": "40033"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Rkojuma_2.webp",
+    "question": "Kuros virzienos motocikla vadītājam ir atļauts braukt attēlotajā situācijā?",
+    "answers": {
+      "40338": "Taisni un pa labi tālākajā brauktuvju krustošanās vietā.",
+      "40339": "Taisni, pa labi tuvākajā un tālākajā brauktuves krustošanās vietā.",
+      "40340": "Tikai taisni."
+    },
+    "answer": "40338"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Apzmjumi_21.webp",
+    "question": "Vai motocikla vadītājam ir atļauts apdzīt traktoru, ja tā ātrums ir mazāks par 30 km/h?",
+    "answers": {
+      "40205": "Aizliegts.",
+      "40206": "Atļauts."
+    },
+    "answer": "40205"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Apzmjumi_13.webp",
+    "question": "Ko apzīmē ceļa apzīmējums – plata pārtraukta šķērslīnija?",
+    "answers": {
+      "40181": "Vietu, kur jāapstājas, lai, ja nepieciešams, dotu ceļu transportlīdzekļiem, kas brauc pa šķērsojamo ceļu.",
+      "40182": "Vietu, kur obligāti jāapstājas pirms izbraukšanas uz galvenā ceļa."
+    },
+    "answer": "40181"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Aizlieguma_11.webp",
+    "question": "Vai motocikla vadītājam ir atļauts uzņemt pasažieri attēlā redzamās zīmes darbības zonā?",
+    "answers": {
+      "40396": "Atļauts uz laiku, kas nepārsniedz 5 minūtes.",
+      "40397": "Aizliegts."
+    },
+    "answer": "40396"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Aizlieguma_6.webp",
+    "question": "Ko aizliedz attēlotā ceļa zīme?",
+    "answers": {
+      "40387": "Ieturēt distanci ar priekšā braucošo mazāku par 70 metriem.",
+      "40388": "70 metrus uz priekšu aizliegts apdzīt.",
+      "40389": "Ieturēt distanci ar priekšā braucošo lielāku par 70 metriem."
+    },
+    "answer": "40387"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Apzmjumi_6.webp",
+    "question": "Ko apzīmē platā nepārtrauktā līnija brauktuves malā?",
+    "answers": {
+      "40163": "Velojoslu, kur drīkst braukt tikai velosipēdi.",
+      "40164": "Dzīvojamās zonas robežu."
+    },
+    "answer": "40163"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Nordjuma_11.webp",
+    "question": "Kāda ir darbības zona attēlotajām ceļa zīmēm?",
+    "answers": {
+      "40323": "Līdz ceļa zīmei “Zonas beigas” (attiecīgā zīme pārsvītrota).",
+      "40324": "Līdz tuvākajam krustojumam.",
+      "40325": "Līdz apdzīvotas vietas beigām."
+    },
+    "answer": "40323"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Brdinjuma_4.webp",
+    "question": "Kura no ceļa zīmēm brīdina par to, ka sekos lejupceļš ar 9 metru kritumu uz nobrauktiem 100 metriem?",
+    "answers": {
+      "40093": "B.",
+      "40094": "A.",
+      "40095": "A un B."
+    },
+    "answer": "40093"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Apstans,_stvana_11.webp",
+    "question": "Vai atļauts apstāties ar motociklu norādītajā vietā?",
+    "answers": {
+      "39945": "Aizliegts.",
+      "39946": "Atļauts."
+    },
+    "answer": "39945"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Nordjuma_9.webp",
+    "question": "Ko norāda attēlā redzamās ceļa zīmes?",
+    "answers": {
+      "40317": "Pilsētas vai ciema robežu sākumu un vietu, no kuras jāievēro prasības, kas attiecas uz apdzīvotām vietām.",
+      "40318": "Pagasta nosaukumu un vietu, no kuras jāievēro prasības, kas attiecas uz ārpus apdzīvotām vietām.",
+      "40319": "Pilsētas nosaukumu un vietu, no kuras sākas dzīvojamā zona."
+    },
+    "answer": "40317"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Rkojuma_5.webp",
+    "question": "Kā rīkosieties attēlotajā situācijā?",
+    "answers": {
+      "40347": "Braukšu ar ātrumu, kas nav mazāks par zīmē norādīto.",
+      "40348": "Braukšu ar ātrumu, kas nepārsniedz zīmē norādīto."
+    },
+    "answer": "40347"
+  },
+  {
+    "media": "bildes_A_kat_3._Priekrocbas_Viendas_nozmes_5_2.webp",
+    "question": "Kā ir jārīkojas motocikla vadītājam, šķērsojot krustojumu?",
+    "answers": {
+      "41000": "Jādod ceļš dzeltenā automobiļa vadītājam.",
+      "41001": "Jādod ceļš sarkanā automobiļa vadītājam.",
+      "41002": "Jāšķērso krustojums pirmajam."
+    },
+    "answer": "41000"
+  },
+  {
+    "media": "bildes_A_kat_7._Tehniskais_stvoklis_30.webp",
+    "question": "Kā ir jārīkojas motocikla vadītājam, pamanot eļļas noplūdi no priekšējiem amortizatoriem?",
+    "answers": {
+      "40757": "Iespējami ātri jānovērš bojājums.",
+      "40758": "Šāds bojājums ir pieļaujams, nav jāveic remontdarbi.",
+      "40759": "Pirms katra brauciena noplūdusī eļļa ir jānotīra."
+    },
+    "answer": "40757"
+  },
+  {
+    "media": "bildes_A_kat_7._Tehniskais_stvoklis_22.webp",
+    "question": "Attēlotā indikācija mēraparātu panelī informē par to, ka:",
+    "answers": {
+      "40798": "Ir iedegts (-i) tālās gaismas lukturis (-i).",
+      "40799": "Ir iedegts (-i) tuvās gaismas lukturis (-i).",
+      "40800": "Ir iedegts (-i) miglas lukturis (-i)."
+    },
+    "answer": "40798"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Aizlieguma_19.webp",
+    "question": "Līdz kurai vietai ir spēkā ceļa zīmes “Maksimālā ātruma ierobežojums” darbība?",
+    "answers": {
+      "40418": "Līdz ceļa zīmei “Apdzīvotas vietas sākums”.",
+      "40419": "Līdz tuvākajam krustojumam.",
+      "40420": "Līdz vietai, kur iebrauc degvielas uzpildes stacijā."
+    },
+    "answer": "40418"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Aizlieguma_8.webp",
+    "question": "Vai motocikla vadītājam atļauts apdzīt attēlotās ceļa zīmes darbības zonā?",
+    "answers": {
+      "40393": "Atļauts, ja traktora ātrums ir mazāks par 30 km/h.",
+      "40394": "Atļauts, jo ceļa zīme attiecas tikai uz vieglajiem automobiļiem.",
+      "40395": "Aizliegts jebkurā gadījumā."
+    },
+    "answer": "40393"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Aizlieguma_7.webp",
+    "question": "Vai motocikla vadītājam atļauts apdzīt attēlotās ceļa zīmes darbības zonā?",
+    "answers": {
+      "40390": "Atļauts, jo ceļa zīmes prasības attiecas tikai uz kravas automobiļiem.",
+      "40391": "Atļauts tikai gadījumā, ja vieglā automobiļa ātrums ir mazāks par 30 km/h.",
+      "40392": "Aizliegts jebkurā gadījumā."
+    },
+    "answer": "40390"
+  },
+  {
+    "media": "bildes_b_25_Pirma_palidziba_25_14.webp",
+    "question": "Kurā attēlā sirds masāža tiek izpildīta pareizi?",
+    "answers": {
+      "39667": "A.",
+      "39668": "B.",
+      "39669": "Abi paņēmieni ir pareizi."
+    },
+    "answer": "39667"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Apdzana,_samainans,_apsteigana_2.webp",
+    "question": "Vai attēlotajā situācijā motocikla vadītājam ir atļauts uzsākt apdzīšanu?",
+    "answers": {
+      "39989": "Aizliegts.",
+      "39990": "Atļauts."
+    },
+    "answer": "39989"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Transportldzeku_izkrtojums_uz_brauktuves_11.webp",
+    "question": "Vai motocikla vadītājam atļauts turpināt braukt taisnā virzienā pa ieņemto joslu?",
+    "answers": {
+      "40055": "Aizliegts.",
+      "40056": "Atļauts."
+    },
+    "answer": "40055"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Papildzmes_15.webp",
+    "question": "Par ko informē attēlotā ceļa zīme?",
+    "answers": {
+      "40249": "Par šķēršļa apbraukšanas virzienu pēc 300 m.",
+      "40250": "Par to, ka pēc 300 m ir jāpārkārtojas uz labo joslu.",
+      "40251": "Par ceļa līkumu, jāsamazina ātrums."
+    },
+    "answer": "40249"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Termini_10.webp",
+    "question": "Cik braukšanas joslu ir attēlā redzamajā situācijā?",
+    "answers": {
+      "39824": "Četras.",
+      "39825": "Divas.",
+      "39826": "Sešas."
+    },
+    "answer": "39824"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Termini_3.webp",
+    "question": "Motocikla vadītājs trīs minūtes uzņem pasažieri. Minētā situācija tiek uzskatīta par transportlīdzekļa:",
+    "answers": {
+      "39805": "Apstāšanos.",
+      "39806": "Stāvēšanu."
+    },
+    "answer": "39805"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Braukanas_skana_un_braukanas_virziena_maia_18.webp",
+    "question": "Ja izvēlējāties nepareizu maršrutu, vai atļauts apgriezties braukšanai pretējā virzienā attēlotajā situācijā?",
+    "answers": {
+      "39913": "Aizliegts.",
+      "39914": "Atļauts, ja redzamība braukšanas virzienā ir lielāka par 100 m."
+    },
+    "answer": "39913"
+  },
+  {
+    "media": "bildes_A_kat_6._Citi_dalbnieki_14.webp",
+    "question": "Kura transportlīdzekļa vadītājam ir priekšroka attēlotajā situācijā?",
+    "answers": {
+      "40668": "Velosipēda vadītājam.",
+      "40669": "Motocikla vadītājam."
+    },
+    "answer": "40668"
+  },
+  {
+    "media": "bildes_A_kat_5._Droa_vadana_31.1.webp",
+    "question": "Kādu attālumu nobrauc motocikls vienā sekundē, braucot ar ātrumu 50 km/h?",
+    "answers": {
+      "40608": "Aptuveni 14 m.",
+      "40609": "Aptuveni 24 m.",
+      "40610": "Aptuveni 7 m."
+    },
+    "answer": "40608"
+  },
+  {
+    "media": "video_A_kat_A_Citu_satiksmes_dalbnieku_intereu_ievroana_Elektroskrejritei1_MP4.webp",
+    "question": "Video jautājums\nKā rīkosieties attēlotajā situācijā?",
+    "answers": {
+      "41137": "Došu ceļu skrejriteņu vadītājiem.",
+      "41138": "Brīdināšu skrejriteņu vadītājus ar skaņas signālu un turpināšu manevru.",
+      "41139": "Turpināšu veikt manevru, jo šķērsot brauktuvi, nenokāpjot no skrejriteņa, ir aizliegts."
+    },
+    "answer": "41137"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Brdinjuma_2.webp",
+    "question": "Par ko brīdina ceļa zīme?",
+    "answers": {
+      "40087": "Par bīstamiem pagriezieniem, kur pirmais pagrieziens būs pa labi.",
+      "40088": "Par bīstamu labo pagriezienu.",
+      "40089": "Par lejupceļu ar sekojošu augšupceļu."
+    },
+    "answer": "40087"
+  },
+  {
+    "media": "bildes_A_kat_3._Priekrocbas_Reguljamos_5.webp",
+    "question": "Kā ir jārīkojas motocikla vadītājam, krustojumā nogriežoties pa labi?",
+    "answers": {
+      "40465": "Jāaptur transportlīdzeklis tieši pirms stoplīnijas un jāsagaida atļaujošais luksofora signāls.",
+      "40466": "Jāšķērso krustojums.",
+      "40467": "Jāšķērso krustojums, dodot ceļu citiem transportlīdzekļu vadītājiem."
+    },
+    "answer": "40465"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Apzmjumi_3.webp",
+    "question": "Kuri no attēlā redzamajiem vertikālajiem ceļa apzīmējumiem atļauj transportlīdzekļa tālāku braukšanu?",
+    "answers": {
+      "40153": "A, B un C.",
+      "40154": "A un D.",
+      "40155": "B, C un D."
+    },
+    "answer": "40153"
+  },
+  {
+    "media": "video_A_kat_A_Bstambas_paredzana_Sliedes1_MP4.webp",
+    "question": "Video jautājums\nKā jārīkojas motocikla vadītājam pēc tam, kad viņš ir pārliecinājies par drošību?",
+    "answers": {
+      "41120": "Samazinot braukšanas ātrumu, ir jāapbrauc šķērslis, pārbraucot sliežu klātni maksimāli perpendikulāri attiecībā pret to.",
+      "41121": "Samazinot braukšanas ātrumu, ir jāapbrauc šķērslis, braucot iespējami paralēli pāri sliežu klātnei.",
+      "41122": "Jāapbrauc šķērslis pa pretējā braukšanas virziena sliežu klātni."
+    },
+    "answer": "41120"
+  },
+  {
+    "media": "bildes_b_25_Pirma_palidziba_25_1.webp",
+    "question": "Kurš no minētajiem ir Glābšanas dienesta (Valsts ugunsdzēsības un glābšanas dienesta) izsaukuma tālruņa numurs?",
+    "answers": {
+      "4175": "112",
+      "4176": "199",
+      "4177": "1212"
+    },
+    "answer": "4175"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Braukanas_trums_8.webp",
+    "question": "Turpinot kustību, Jūsu vadītā motocikla braukšanas ātrums nedrīkst pārsniegt:",
+    "answers": {
+      "39975": "70 km/h.",
+      "39976": "90 km/h.",
+      "39977": "50 km/h."
+    },
+    "answer": "39975"
+  },
+  {
+    "media": "video_A_kat_A_Citu_satiksmes_dalbnieku_intereu_ievroana_Var_izbraukt_priek1_MP4.webp",
+    "question": "Video jautājums\nKā ir jārīkojas motocikla vadītājam attēlotā situācijā?",
+    "answers": {
+      "41405": "Jāsamazina braukšanas ātrums un jāpārliecinās, ka sarkanā automobiļa vadītājs ir pamanījis motociklu.",
+      "41406": "Jāveic apdzīšanas manevrs, pirms tam pārliecinoties, ka aizmugurē braucošais transportlīdzeklis nav uzsācis apdzīšanu.",
+      "41407": "Jāpievērš uzmanība, lietojot skaņas signālu.",
+      "41408": "Motocikls brauc pa galveno ceļu, īpaša uzmanība nav nepieciešama."
+    },
+    "answer": "41405"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Braukanas_skana_un_braukanas_virziena_maia_13.webp",
+    "question": "No kuras braukšanas joslas nogriezīsieties pa labi?",
+    "answers": {
+      "39902": "Tikai B.",
+      "39903": "Tikai A.",
+      "39904": "A vai B."
+    },
+    "answer": "39902"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Apdzana,_samainans,_apsteigana_9.webp",
+    "question": "Vai motocikla vadītājam atļauts apdzīt attēlotajā situācijā?",
+    "answers": {
+      "40005": "Aizliegts.",
+      "40006": "Atļauts."
+    },
+    "answer": "40005"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Nordjuma_12.webp",
+    "question": "Kā rīkosieties attēlotajā situācijā?",
+    "answers": {
+      "40326": "Apturēšu motociklu pie stoplīnijas un sagaidīšu atļaujošo luksofora signālu.",
+      "40327": "Apturēšu motociklu pirms luksofora un sagaidīšu atļaujošo signālu.",
+      "40328": "Apturēšu motociklu pie stoplīnijas, pārliecināšos par drošību un turpināšu ceļu."
+    },
+    "answer": "40326"
+  },
+  {
+    "media": "bildes_A_kat_7._Tehniskais_stvoklis_23.webp",
+    "question": "Attēlotā indikācija mēraparātu panelī informē par to, ka:",
+    "answers": {
+      "40735": "Ir notikusi kļūme motora vadības sistēmā.",
+      "40736": "Ir jāmaina motora eļļa.",
+      "40737": "Ir ieslēgts motora avārijas izslēgšanas slēdzis."
+    },
+    "answer": "40735"
+  },
+  {
+    "media": "bildes_A_kat_7._Tehniskais_stvoklis_mocis.webp",
+    "question": "Palielināts gaisa spiediens riepās:",
+    "answers": {
+      "40699": "Mazina saķeres laukumu, pasliktinot motocikla vadāmību.",
+      "40700": "Neietekmē motocikla vadāmību.",
+      "40701": "Palielina saķeres koeficientu."
+    },
+    "answer": "40699"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Apstans,_stvana_2.webp",
+    "question": "Vai motocikls pareizi novietots stāvēšanai?",
+    "answers": {
+      "39923": "Pareizi.",
+      "39924": "Nepareizi."
+    },
+    "answer": "39923"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Apdzana,_samainans,_apsteigana_1.webp",
+    "question": "Vai attēlotajā situācijā motocikla vadītājam ir atļauts uzsākt apdzīšanu?",
+    "answers": {
+      "39987": "Aizliegts.",
+      "39988": "Atļauts."
+    },
+    "answer": "39987"
+  },
+  {
+    "media": "bildes_A_kat_5._Droa_vadana_1.webp",
+    "question": "Kāpēc tiek uzskatīts, ka motocikla vadītāji ir mazāk aizsargāti ceļu satiksmes dalībnieki?",
+    "answers": {
+      "40504": "Grūtāk pamanāmi citiem ceļu satiksmes dalībniekiem.",
+      "40505": "Ceļu satiksmes negadījumā ir lielāka iespēja gūt dzīvībai bīstamas traumas.",
+      "40506": "Citiem ceļu satiksmes dalībniekiem ir grūtāk novērtēt motocikla braukšanas ātrumu.",
+      "40507": "Visas minētās atbildes ir pareizas."
+    },
+    "answer": "40507"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Papildzmes_6_1.webp",
+    "question": "Kurš no transportlīdzekļiem ir apstājies ceļa zīmes “Apstāties aizliegts” darbības zonā?",
+    "answers": {
+      "41168": "Automobilis.",
+      "41169": "Motocikls.",
+      "41170": "Abi transportlīdzekļi."
+    },
+    "answer": "41168"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Transportldzeku_izkrtojums_uz_brauktuves_19.webp",
+    "question": "Vai motocikla vadītājam attēlotajā situācijā atļauts braukt pa tramvaja sliežu klātni?",
+    "answers": {
+      "40071": "Aizliegts.",
+      "40072": "Atļauts."
+    },
+    "answer": "40071"
+  },
+  {
+    "media": "bildes_A_kat_3._Priekrocbas_Ar_zmm_1.webp",
+    "question": "Kā rīkosieties, šķērsojot krustojumu?",
+    "answers": {
+      "40432": "Došu ceļu tikai automobiļa vadītājam.",
+      "40433": "Došu ceļu automobiļa un tramvaja vadītājam.",
+      "40434": "Došu ceļu tikai tramvaja vadītājam.",
+      "40435": "Šķērsošu krustojumu pirmais."
+    },
+    "answer": "40432"
+  },
+  {
+    "media": "bildes_A_kat_7._Aizsargtrps_ivere.webp",
+    "question": "Kā rīkosieties, ja esat konstatējis, ka ķiverei ārējā virsmā ir plaisa?",
+    "answers": {
+      "40808": "Iegādāšos jaunu, jo esošā ķivere vairs nespēs pilnvērtīgi pildīt savas aizsargfunkcijas.",
+      "40809": "Ja ķivere ir nesen pirkta, aizlīmēšu plaisu un pārkrāsošu ķiveri.",
+      "40810": "Ja plaisa ir neliela, turpināšu to lietot, jo nelieliem bojājumiem nav būtiskas ietekmes uz ķiveres aizsargfunkcijām."
+    },
+    "answer": "40808"
+  },
+  {
+    "media": "bildes_A_kat_apstajies-pirms-atsledzies.webp",
+    "question": "Motocikla vadītājs braucot sajūt vairākas miegainības pazīmes. Līdz galamērķim palikuši tikai 40 km. Kura motocikla vadītāja rīcība ir vispareizākā?",
+    "answers": {
+      "41504": "Apstāties tuvākajā piemērotajā vietā, pagulēt 15–20 minūtes un tad turpināt ceļu.",
+      "41505": "Ievērojami palielināt braukšanas ātrumu, jo adrenalīns motocikla vadītāja asinīs neļaus iemigt.",
+      "41506": "Atvērt aizsargķiveres vizieri, dziļi elpot un mēģināt tikt līdz galamērķim."
+    },
+    "answer": "41504"
+  },
+  {
+    "media": "bildes_C_kat_20.Tehniskais_stavoklis__aprkojums_drosbas_ierices_arejas_apgaismes_ierices_apstajies-pirms-atsledzies.webp",
+    "question": "“Ja katru nakti noguļu 8 stundas, tad miegainība pie stūres man nedraud.” Kā vērtēt šādu transportlīdzekļa vadītāja apgalvojumu?",
+    "answers": {
+      "41315": "Tas ne vienmēr ir pareizi, jo motocikla vadītājam var būt miega traucējumi (miega apnojas un citi), kuru dēļ viņa miegs nav pilnvērtīgs.",
+      "41316": "Pareizi, tas izslēdz miegainības iespēju."
+    },
+    "answer": "41315"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Brdinjuma_1.webp",
+    "question": "Kā rīkosieties attēlotajā situācijā?",
+    "answers": {
+      "40084": "Samazināšu ātrumu un būšu gatavs dot ceļu tā transportlīdzekļa vadītājam, kas tuvojas no labās puses.",
+      "40085": "Krustojumā nogriezīšos pa labi vai pa kreisi, jo taisni braukt ir aizliegts.",
+      "40086": "Ievērošu īpašu piesardzību, jo priekšā ir paaugstinātas bīstamības ceļu krustojums."
+    },
+    "answer": "40084"
+  },
+  {
+    "media": "bildes_A_kat_7._Tehniskais_stvoklis_brauc.webp",
+    "question": "Kas liecina par to, ka priekšējā riepā ir būtiski (par 90%) samazinājies gaisa spiediens?",
+    "answers": {
+      "40708": "Jūtama apgrūtināta motocikla stūrēšana.",
+      "40709": "Ieturot taisnvirziena kustību aizmugurējais ritenis jūtami pārvietosies šķērsvirzienā (staigās).",
+      "40710": "Pārnesumi kļūst grūti pārslēdzami."
+    },
+    "answer": "40708"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Papildzmes_12.webp",
+    "question": "Kāds ir maksimāli atļautais ātrums ārpus apdzīvotas vietas attēlotajā situācijā?",
+    "answers": {
+      "40244": "90 km/h.",
+      "40245": "50 km/h.",
+      "40246": "Pēc vadītāja ieskatiem, bet nepārsniedzot 90 km/h."
+    },
+    "answer": "40244"
+  },
+  {
+    "media": "bildes_A_kat_6._Citi_dalbnieki_2.webp",
+    "question": "Kuram satiksmes dalībniekam ir priekšroka attēlotajā situācijā?",
+    "answers": {
+      "40644": "Gājējam.",
+      "40645": "Motocikla vadītājam."
+    },
+    "answer": "40644"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Apzmjumi_15.webp",
+    "question": "Ko apzīmē attēlotais ceļa apzīmējums?",
+    "answers": {
+      "40186": "Uz brauktuves izveidotu mākslīgu paaugstinājumu (ātrumvalni).",
+      "40187": "Gājēju pāreju.",
+      "40188": "Taksometru stāvvietu."
+    },
+    "answer": "40186"
+  },
+  {
+    "media": "bildes_A_kat_3._Priekrocbas_Mainot_virzienu_1.webp",
+    "question": "Kura transportlīdzekļa vadītājam ir priekšroka apdzīvotās vietās?",
+    "answers": {
+      "40489": "Autobusa vadītājam.",
+      "40490": "Motocikla vadītājam."
+    },
+    "answer": "40489"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Apzmjumi_16.webp",
+    "question": "Kuros virzienos ir atļauts braukt attēlotajā situācijā?",
+    "answers": {
+      "40189": "No labās joslas taisni, no kreisās joslas pa kreisi un apgriezties braukšanai pretējā virzienā.",
+      "40190": "No labās joslas taisni, no kreisās joslas pa kreisi.",
+      "40191": "No labās joslas taisni, no kreisās joslas apgriezties braukšanai pretējā virzienā."
+    },
+    "answer": "40189"
+  },
+  {
+    "media": "bildes_A_kat_7._Tehniskais_stvoklis_36.webp",
+    "question": "Kurā no pozīcijām atrodoties avārijas slēdzim, motors nedarbosies?",
+    "answers": {
+      "40775": "A pozīcijā.",
+      "40776": "B pozīcijā."
+    },
+    "answer": "40775"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Termini_6.webp",
+    "question": "Attēlotajā situācijā motocikla vadītājs atrodas:",
+    "answers": {
+      "39811": "Uz galvenā ceļa.",
+      "39812": "Uz mazāksvarīga ceļa.",
+      "39813": "Vienādas nozīmes krustojumā.",
+      "39814": "Regulējamā krustojumā."
+    },
+    "answer": "39811"
+  },
+  {
+    "media": "bildes_A_kat_5._Droa_vadana_7.webp",
+    "question": "Vai motocikla vadāmība var būtiski izmainīties, turpinot ceļu pa bruģi?",
+    "answers": {
+      "40521": "Var mainīties jebkurā gadījumā.",
+      "40522": "Var mainīties tikai lietus laikā.",
+      "40523": "Var mainīties, tikai ja brauktuve nav attīrīta no lapām un citiem gružiem."
+    },
+    "answer": "40521"
+  },
+  {
+    "media": "bildes_A_kat_beigta_balle.webp",
+    "question": "Vai pirms braukšanas izdzerta viena alus glāze (0,33 litri) vai viena vīna glāze (0,2 litri) palielina iespējamību iekļūt ceļu satiksmes negadījumā?",
+    "answers": {
+      "41448": "Jā, palielina.",
+      "41449": "Nē, nepalielina."
+    },
+    "answer": "41448"
+  },
+  {
+    "media": "bildes_C_kat_20.Tehniskais_stavoklis__aprkojums_drosbas_ierices_arejas_apgaismes_ierices_apstajies-pirms-atsledzies.webp",
+    "question": "“Kaut arī es braucu noguris, es varēšu pamanīt brīdi, kad tūlīt iemigšu.” Kā vērtēt šādu transportlīdzekļa vadītāja apgalvojumu?",
+    "answers": {
+      "41248": "Tas ir nepareizs.",
+      "41249": "Tas ir pareizs."
+    },
+    "answer": "41248"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Braukanas_trums_6.webp",
+    "question": "Turpinot kustību, Jūsu vadītā motocikla braukšanas ātrums nedrīkst pārsniegt:",
+    "answers": {
+      "39970": "90 km/h.",
+      "39971": "50 km/h."
+    },
+    "answer": "39970"
+  },
+  {
+    "media": "bildes_A_kat_3._Priekrocbas_Ar_zmm_7.webp",
+    "question": "Kā ir jārīkojas motocikla vadītājam, krustojumā apgriežoties braukšanai pretējā virzienā?",
+    "answers": {
+      "41512": "Jādod ceļš tikai velosipēda vadītājam.",
+      "41513": "Jādod ceļš tikai autobusa vadītājam.",
+      "41514": "Jādod ceļš abu transportlīdzekļu vadītājiem.",
+      "41515": "Jāveic manevrs pirmajam."
+    },
+    "answer": "41512"
+  },
+  {
+    "media": "bildes_A_kat_5._Droa_vadana_26.webp",
+    "question": "Kā jārīkojas motocikla vadītājam, lai mazinātu centrbēdzes ietekmi, braucot līkumā ar lielāku ātrumu?",
+    "answers": {
+      "40601": "Ķermenis jāsasver uz līkuma iekšmalu.",
+      "40602": "Manevrs jāveic ar izspiestu sajūgu.",
+      "40603": "Ķermenis jāsasver uz līkuma ārmalu.",
+      "40604": "Manevrs jāveic bremzējot līkumā."
+    },
+    "answer": "40601"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Rkojuma_8.webp",
+    "question": "Kuros virzienos Jums ir atļauts braukt attēlotajā situācijā?",
+    "answers": {
+      "40355": "Pa labi, pa kreisi un apgriezties braukšanai pretējā virzienā.",
+      "40356": "Tikai pa labi vai pa kreisi."
+    },
+    "answer": "40355"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Termini_16.webp",
+    "question": "Ceļu satiksmes noteikumu izpratnē motocikla vadītājs tuvojas:",
+    "answers": {
+      "39841": "Iebrauktuvei blakusteritorijā.",
+      "39842": "Krustojumam.",
+      "39843": "Ceļa pārvadam."
+    },
+    "answer": "39841"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Apzmjumi_17.webp",
+    "question": "Ko apzīmē attēlotais ceļa apzīmējums – bultas uz brauktuves?",
+    "answers": {
+      "40192": "Brīdina par tuvojošos brauktuves sašaurinājumu.",
+      "40193": "Apzīmē joslu, kur mainīsies braukšanas virziens uz pretējo.",
+      "40194": "Apzīmē apdzīšanas joslu."
+    },
+    "answer": "40192"
+  },
+  {
+    "media": "bildes_A_kat_beigta_balle.webp",
+    "question": "Vai transportlīdzekļa vadītājam mainās redzes lauks, ja viņš lietojis alkoholiskos dzērienus?",
+    "answers": {
+      "41445": "Redzes lauks samazinās, veidojas “tuneļa” redze.",
+      "41446": "Redzes lauks neizmainās.",
+      "41447": "Redzes lauks palielinās."
+    },
+    "answer": "41445"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Brdinjuma_15.webp",
+    "question": "Par ko brīdina attēlotā ceļa zīme?",
+    "answers": {
+      "40127": "Par bīstamu ceļa posmu.",
+      "40128": "Par reti sastopamu dabas skatu.",
+      "40129": "Par tuvumā esošu informācijas centru."
+    },
+    "answer": "40127"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Apzmjumi_4.webp",
+    "question": "Kuri no attēlā redzamajiem vertikālajiem ceļa apzīmējumiem norāda, ka ceļa darbu vieta jāapbrauc pa ceļa kreiso pusi?",
+    "answers": {
+      "40156": "A un D.",
+      "40157": "B un E.",
+      "40158": "C.",
+      "40159": "D un E."
+    },
+    "answer": "40156"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Papildzmes_13.webp",
+    "question": "Ko norāda attēlotās ceļa zīmes?",
+    "answers": {
+      "40247": "Gājēju pāreja ierīkota uz mākslīga paaugstinājuma braukšanas ātruma samazināšanai.",
+      "40248": "Uz gājēju pārejas pretējie braukšanas virzieni tiek atdalīti ar mākslīgu paaugstinājumu."
+    },
+    "answer": "40247"
+  },
+  {
+    "media": "bildes_A_kat_7._Tehniskais_stvoklis_mocis.webp",
+    "question": "Kādas sekas var rasties, ja ķēdes brīvkustība pārsniedz pieļaujamo robežu?",
+    "answers": {
+      "40681": "Saīsinās ķēdes kalpošanas laiks, kas var izraisīt ķēdes pārrāvumu.",
+      "40682": "Motocikla tehnisko stāvokli tas neietekmē, jo noteiktajam spriegojumam ir informatīvs raksturs.",
+      "40683": "Palielinās ķēdes kalpošanas laiks, jo ķēde tiek mazāk noslogota."
+    },
+    "answer": "40681"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Termini_22.webp",
+    "question": "Kurā no situācijām Jūs izpildījāt prasību “dot ceļu”?",
+    "answers": {
+      "39853": "Transportlīdzeklis, kas brauca pa galveno ceļu nebija spiests mainīt braukšanas virzienu un ātrumu.",
+      "39854": "Gājējs, kurš šķērsoja brauktuvi pa gājēju pāreju, uzgaidīja, lai es pabrauktu garām."
+    },
+    "answer": "39853"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Transportldzeku_izkrtojums_uz_brauktuves_5.webp",
+    "question": "Vai motocikla vadītājs ir ieņēmis pareizu braukšanas joslu, lai ilgstoši brauktu taisni?",
+    "answers": {
+      "40041": "Nav ieņēmis.",
+      "40042": "Ir ieņēmis."
+    },
+    "answer": "40041"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Apzmjumi_11.webp",
+    "question": "Ko apzīmē dubulta pārtraukta līnija?",
+    "answers": {
+      "40175": "Braukšanas joslu, kur braukšanas virziens var mainīties uz pretējo.",
+      "40176": "Braukšanas joslu, kur drīkst iebraukt, lai veiktu apdzīšanas manevru.",
+      "40177": "Braukšanas joslu, kas paredzēta pasažieru sabiedriskajiem transportlīdzekļiem."
+    },
+    "answer": "40175"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Rkojuma_1.webp",
+    "question": "Kuros virzienos motocikla vadītājam ir atļauts braukt attēlotajā situācijā?",
+    "answers": {
+      "40334": "A un B.",
+      "40335": "A, B un C.",
+      "40336": "B un C.",
+      "40337": "B."
+    },
+    "answer": "40334"
+  },
+  {
+    "media": "bildes_A_kat_7._Aizsargtrps_10.webp",
+    "question": "Kuri no attēlotajiem apaviem ir piemēroti braucienam ar motociklu?",
+    "answers": {
+      "40843": "A vai C.",
+      "40844": "B vai C.",
+      "40845": "A vai B.",
+      "40846": "Jebkuri apavi ir piemēroti braucienam ar motociklu."
+    },
+    "answer": "40843"
+  },
+  {
+    "media": "bildes_A_kat_3._Priekrocbas_Ar_zmm_3.webp",
+    "question": "Kā rīkosieties, šķērsojot krustojumu?",
+    "answers": {
+      "40440": "Šķērsošu krustojumu pirmais.",
+      "40441": "Došu ceļu tikai vieglā automobiļa vadītājam.",
+      "40442": "Došu ceļu tikai autobusa vadītājam.",
+      "40443": "Šķērsošu krustojumu pēdējais"
+    },
+    "answer": "40440"
+  },
+  {
+    "media": "bildes_A_kat_7._Tehniskais_stvoklis_33.webp",
+    "question": "Kādas sekas var rasties, strauji pārslēdzot pārnesumu no piektā uz otro?",
+    "answers": {
+      "40766": "Aizmugurējais ritenis var zaudēt saķeri ar brauktuvi.",
+      "40767": "Priekšējais ritenis var zaudēt saķeri ar brauktuvi.",
+      "40768": "Palielinās degvielas patēriņš."
+    },
+    "answer": "40766"
+  },
+  {
+    "media": "bildes_A_kat_7._Tehniskais_stvoklis_21.webp",
+    "question": "Attēlotā indikācija mēraparātu panelī informē par to, ka:",
+    "answers": {
+      "40795": "Ir iedegti gabarītlukturi.",
+      "40796": "Ir iedegts(-i) tuvās gaismas lukturis(-i).",
+      "40797": "Ir iedegts(-i) tālās gaismas lukturis(-i)."
+    },
+    "answer": "40796"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Termini_8.webp",
+    "question": "Attēlotajā situācijā motocikla vadītājs atrodas:",
+    "answers": {
+      "39818": "Uz galvenā ceļa.",
+      "39819": "Uz mazāksvarīga ceļa."
+    },
+    "answer": "39818"
+  },
+  {
+    "media": "bildes_A_kat_5._Droa_vadana_3(123).webp",
+    "question": "Kāpēc, vadot motociklu, drošāk ir atrasties braukšanas joslas kreisajā pusē?",
+    "answers": {
+      "40554": "Motocikla vadītājs labāk pārredz ceļu.",
+      "40555": "Joslas vidū uz brauktuves var būt iztecējuši tehniskie šķidrumi, kas var izraisīt motocikla riepu izslīdēšanu.",
+      "40556": "Atrašanās joslas labajā pusē provocē aizmugurē braucošos transportlīdzekļus veikt apdzīšanas vai apsteigšanas manevru, tādējādi neievērojot drošu intervālu.",
+      "40557": "Visas minētās atbildes ir pareizas."
+    },
+    "answer": "40557"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Aizlieguma_14.webp",
+    "question": "Kādas ir attēlā redzamās ceļa zīmes prasības?",
+    "answers": {
+      "40401": "Jāaptur transportlīdzeklis tieši pirms zīmes.",
+      "40402": "Muitas zonā iebraukt aizliegts.",
+      "40403": "Ceļa zīme ir informatīva, nav nepieciešama vadītāja rīcība."
+    },
+    "answer": "40401"
+  },
+  {
+    "media": "bildes_A_kat_7._Tehniskais_stvoklis_N.webp",
+    "question": "Attēlotā indikācija mēraparātu panelī informē par:",
+    "answers": {
+      "40720": "Ieslēgtu neitrālo pārnesumu.",
+      "40721": "To, ka motors ir sasniedzis darba temperatūru.",
+      "40722": "Nenozīmīgu motora darbības traucējumu."
+    },
+    "answer": "40720"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Termini_19.webp",
+    "question": "Kurš no piedāvātajiem variantiem raksturo A kategorijas transportlīdzekli?",
+    "answers": {
+      "40876": "Motocikls, kā arī tāds tricikls, kura jauda pārsniedz 15 kilovatus.",
+      "40877": "Motocikls, kura motora darba tilpums nepārsniedz 125 kubikcentimetrus, jauda nepārsniedz 11 kilovatus un jaudas attiecība pret svaru nepārsniedz 0,1 kilovatu uz kilogramu, kā arī tricikls, kuru jauda nepārsniedz 15 kilovatus.",
+      "40878": "Motocikls, kura jauda nepārsniedz 35 kilovatus, jaudas attiecība pret svaru nepārsniedz 0,2 kilovatus uz kilogramu un kurš nav atvasināts no transportlīdzekļa, kura jauda ir vairāk nekā divas reizes lielāka."
+    },
+    "answer": "40876"
+  },
+  {
+    "media": "bildes_A_kat_5._Droa_vadana_26.webp",
+    "question": "Kurā gadījumā motocikla stabilitāte, braucot pagriezienos, mazinās?",
+    "answers": {
+      "40592": "Braucot pagriezienā ar lielāku ātrumu.",
+      "40593": "Braucot pagriezienā ar lielāku rādiusu.",
+      "40594": "Braucot pagriezienā ar mazāku ātrumu."
+    },
+    "answer": "40592"
+  },
+  {
+    "media": "bildes_A_kat_6._Citi_dalbnieki_12.webp",
+    "question": "Kura transportlīdzekļa vadītājam ir priekšroka attēlotajā situācijā?",
+    "answers": {
+      "40664": "Motocikla vadītājam.",
+      "40665": "Velosipēda vadītājam."
+    },
+    "answer": "40664"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Braukanas_skana_un_braukanas_virziena_maia_12.webp",
+    "question": "Vai motocikla vadītājs ir ieņēmis pareizu stāvokli uz brauktuves, lai nogrieztos pa kreisi?",
+    "answers": {
+      "39900": "Ir ieņēmis pareizu stāvokli uz brauktuves.",
+      "39901": "Nav ieņēmis pareizu stāvokli uz brauktuves."
+    },
+    "answer": "39900"
+  },
+  {
+    "media": "video_A_kat_A_Citu_satiksmes_dalbnieku_intereu_ievroana_Velo_ce1_MP4.webp",
+    "question": "Video jautājums\nKā rīkosieties attēlotajā situācijā?",
+    "answers": {
+      "41152": "Samazināšu ātrumu un būšu gatavs apturēt motociklu.",
+      "41153": "Signalizēšu, lai brīdinātu satiksmes dalībniekus, un turpināšu braukt.",
+      "41154": "Turpināšu braukt, jo man ir priekšroka."
+    },
+    "answer": "41152"
+  },
+  {
+    "media": "bildes_A_kat_3._Priekrocbas_Ar_zmm_2.webp",
+    "question": "Kā rīkosieties, šķērsojot krustojumu?",
+    "answers": {
+      "40436": "Šķērsošu krustojumu pirmais.",
+      "40437": "Došu ceļu tikai sarkanā automobiļa vadītājam.",
+      "40438": "Došu ceļu tikai baltā automobiļa vadītājam.",
+      "40439": "Došu ceļu abu transportlīdzekļu vadītājiem."
+    },
+    "answer": "40436"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Servisa_2.webp",
+    "question": "Par ko informē attēlā redzamās ceļa zīmes?",
+    "answers": {
+      "40264": "Par to, ka pēc 800 m būs stāvvieta, kas atrodas tiešā sabiedriskā transporta pieturas tuvumā.",
+      "40265": "Par to, ka pēc 800 m būs pazemes stāvvieta un tehniskās apkopes punkts.",
+      "40266": "Par to, ka pēc 800 m būs pieturvieta, kas atrodas tiešā restorāna tuvumā."
+    },
+    "answer": "40264"
+  },
+  {
+    "media": "bildes_A_kat_3._Priekrocbas_Mainot_virzienu_5.webp",
+    "question": "Kura transportlīdzekļa vadītājam ir priekšroka?",
+    "answers": {
+      "40497": "Motocikla vadītājam.",
+      "40498": "Autobusa vadītājam."
+    },
+    "answer": "40497"
+  },
+  {
+    "media": "video_A_kat_A_Bstambas_paredzana_Bedre1_MP4.webp",
+    "question": "Video jautājums\nKā rīkosieties attēlotajā situācijā?",
+    "answers": {
+      "41072": "Bremzēšu un īsi pirms bedres šķērsošanas atslogošu motocikla priekšējo riteni.",
+      "41073": "Bremzēšu līdz brīdim, kad bedre tiks šķērsota.",
+      "41074": "Saglabājot braukšanas ātrumu, šķērsošu bedri."
+    },
+    "answer": "41072"
+  },
+  {
+    "media": "video_A_kat_A_Citu_satiksmes_dalbnieku_intereu_ievroana_Ieskrjiena_josla1_MP4.webp",
+    "question": "Video jautājums\nKā rīkosieties attēlotajā situācijā?",
+    "answers": {
+      "41143": "Pārkārtošos pa kreisi uz blakus joslu.",
+      "41144": "Bremzēšu.",
+      "41145": "Palielināšu ātrumu, lai atbrīvotu ceļu kravas automobilim."
+    },
+    "answer": "41143"
+  },
+  {
+    "media": "bildes_A_kat_7._Aizsargtrps_8.webp",
+    "question": "Kuri no attēlotajiem cimdiem ir vispiemērotākie braucienam siltā laikā?",
+    "answers": {
+      "40839": "A.",
+      "40840": "B.",
+      "40841": "C.",
+      "40842": "A un B."
+    },
+    "answer": "40839"
+  },
+  {
+    "media": "bildes_C_kat_20.Tehniskais_stavoklis__aprkojums_drosbas_ierices_arejas_apgaismes_ierices_apstajies-pirms-atsledzies.webp",
+    "question": "Kurā brīdī transportlīdzekļa vadītājam jārēķinās ar lielāku miegainības iespēju?",
+    "answers": {
+      "41220": "Pēc ieturētas pusdienu maltītes.",
+      "41221": "Pirms pusdienu maltītes."
+    },
+    "answer": "41220"
+  },
+  {
+    "media": "bildes_A_kat_beigta_balle.webp",
+    "question": "Kādu iespaidu uz transportlīdzekļa vadītāju var atstāt alkohola koncentrācija asinīs, kas ir robežās no 0,8 līdz 1,2 promilēm?",
+    "answers": {
+      "41450": "Izteikti pārvērtē savas braukšanas spējas.",
+      "41451": "Parādās rupjas braukšanas kļūdas.",
+      "41452": "Nepamana satiksmes signālus.",
+      "41453": "Visas minētās atbildes ir pareizas."
+    },
+    "answer": "41453"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Braukanas_skana_un_braukanas_virziena_maia_15.webp",
+    "question": "Kurš no vadītājiem pareizi izbrauc uz ceļa ar ieskrējiena joslu?",
+    "answers": {
+      "39908": "Automobiļa vadītājs.",
+      "39909": "Motocikla vadītājs."
+    },
+    "answer": "39908"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Brdinjuma_8.webp",
+    "question": "Par ko brīdina attēlotā ceļa zīme?",
+    "answers": {
+      "40105": "Par to, ka no riteņu apakšas var tikt izsviestas šķembas (grants u.tml. materiāli).",
+      "40106": "Par to, ka, braucot pa šo segumu, var sabojāt riepas.",
+      "40107": "Par to, ka nedrīkst piesārņot dabu."
+    },
+    "answer": "40105"
+  },
+  {
+    "media": "bildes_A_kat_7._Tehniskais_stvoklis_mehnisms.webp",
+    "question": "Kam ir paredzēts attēlā redzamais regulēšanas mehānisms?",
+    "answers": {
+      "40723": "Dod iespēju motocikla vadītājam iestatīt bremžu sviras stāvokli sev vēlamajā pozīcijā.",
+      "40724": "Dod iespēju mainīt bremžu spēku sadalījumu pa asīm.",
+      "40725": "Atkarībā no iestatītā stāvokļa ļauj mainīt bremžu sviras izspiešanas spēku."
+    },
+    "answer": "40723"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Transportldzeku_izkrtojums_uz_brauktuves_10.webp",
+    "question": "Kuros virzienos atļauts braukt motocikla vadītājam apdzīvotā vietā?",
+    "answers": {
+      "40052": "Taisni un apgriezties braukšanai pretējā virzienā.",
+      "40053": "Apgriezties braukšanai pretējā virzienā.",
+      "40054": "Taisni."
+    },
+    "answer": "40052"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Transportldzeku_izkrtojums_uz_brauktuves_13.webp",
+    "question": "Kurā virzienā atļauts braukt motocikla vadītājam apdzīvotā vietā?",
+    "answers": {
+      "40060": "Apgriezties braukšanai pretējā virzienā.",
+      "40061": "Taisni.",
+      "40062": "Taisni un apgriezties braukšanai pretējā virzienā."
+    },
+    "answer": "40060"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Rkojuma_9.webp",
+    "question": "Vai Jums atļauts braukt taisni attēlotajā situācijā?",
+    "answers": {
+      "40357": "Aizliegts.",
+      "40358": "Atļauts.",
+      "40359": "Atļauts, ja braucu uz dzīvesvietu."
+    },
+    "answer": "40357"
+  },
+  {
+    "media": "bildes_A_kat_7._Aizsargtrps_6.webp",
+    "question": "Kura no attēlotajām motocikla ķiverēm vispilnvērtīgāk spēj pasargāt galvu no traumām?",
+    "answers": {
+      "40818": "A.",
+      "40819": "B.",
+      "40820": "C."
+    },
+    "answer": "40818"
+  },
+  {
+    "media": "video_A_kat_A_Bstambas_paredzana_saule_riet1_MP4.webp",
+    "question": "Video jautājums\nKas ir jāņem vērā motocikla vadītājam attēlotajā situācijā?",
+    "answers": {
+      "41117": "Laiks, kad saule atrodas pie paša horizonta, būtiski apgrūtina redzamību.",
+      "41118": "Braukšana pa tukšu ceļu ir pilnībā droša.",
+      "41119": "Saulei austot un rietot, ceļš ir vislabāk apgaismots."
+    },
+    "answer": "41117"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Aizlieguma_2.webp",
+    "question": "Attēlotās ceļa zīmes darbība neattiecas uz:",
+    "answers": {
+      "40374": "Pasažieru sabiedriskajiem transportlīdzekļiem.",
+      "40375": "Vadītāju, kurš dzīvo aiz attēlotās ceļa zīmes.",
+      "40376": "Uz taksometriem.",
+      "40377": "Vadītāju, kurš brauc saņemt vai nogādāt kravu."
+    },
+    "answer": "40374"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Brdinjuma_11.webp",
+    "question": "Par ko brīdina attēlotā ceļa zīme?",
+    "answers": {
+      "40114": "Par to, ka uz brauktuves var negaidīti izskriet bērni.",
+      "40115": "Par to, ka tuvojas gājēju pāreja.",
+      "40116": "Par to, ka uz brauktuves tiek veikti remontdarbi."
+    },
+    "answer": "40114"
+  },
+  {
+    "media": "bildes_A_kat_5._Droa_vadana_22.webp",
+    "question": "Kā ir jāizvēlas distance, braucot miglā?",
+    "answers": {
+      "40576": "Tā, lai apstāšanās ceļš būtu īsāks nekā redzamība braukšanas virzienā.",
+      "40577": "Tā, lai apstāšanās ceļš būtu garāks nekā redzamība braukšanas virzienā.",
+      "40578": "Tā, lai redzētu priekšā braucošā transportlīdzekļa gabarītlukturu gaismas.",
+      "40579": "Tā, lai redzētu priekšā braucošā transportlīdzekļa valsts numura zīmes simbolus."
+    },
+    "answer": "40576"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Nordjuma_2.webp",
+    "question": "Kuros virzienos Jums ir atļauts braukt attēlotajā situācijā?",
+    "answers": {
+      "40285": "A, B un D.",
+      "40286": "A, B, C un D.",
+      "40287": "B un C.",
+      "40288": "A un D."
+    },
+    "answer": "40285"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Braukanas_trums_4.webp",
+    "question": "Turpinot kustību, Jūsu vadītā motocikla braukšanas ātrums nedrīkst pārsniegt:",
+    "answers": {
+      "39965": "30 km/h.",
+      "39966": "20 km/h.",
+      "39967": "50 km/h."
+    },
+    "answer": "39965"
+  },
+  {
+    "media": "bildes_A_kat_6._Citi_dalbnieki_dzvojam.webp",
+    "question": "Kuram satiksmes dalībniekam ir priekšroka attēlotajā situācijā?",
+    "answers": {
+      "41485": "Gājējam.",
+      "41486": "Motocikla vadītājam."
+    },
+    "answer": "41485"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Termini_3.webp",
+    "question": "Motocikla vadītājs sešas minūtes uzņem pasažieri. Minētā situācija tiek uzskatīta par transportlīdzekļa:",
+    "answers": {
+      "39809": "Stāvēšanu.",
+      "39810": "Apstāšanos."
+    },
+    "answer": "39809"
+  },
+  {
+    "media": "bildes_A_kat_7._Tehniskais_stvoklis_brauc.webp",
+    "question": "Kā jārīkojas motocikla vadītājam, ja braucot ar ātrumu 80 km/h pārplīst aizmugurējā riepa?",
+    "answers": {
+      "41007": "Nemainot braukšanas trajektoriju laideni jāsamazina motora apgriezieni, mazinot braukšanas ātrumu. Kad ātrums ir ievērojami samazināts, lai pilnībā apstātos, izmanto tikai priekšējās bremzes.",
+      "41008": "Nemainot braukšanas trajektoriju un stingri turot stūri, strauji jābremzē, reizē izmantojot priekšējās un aizmugurējās bremzes.",
+      "41009": "Nemainot braukšanas trajektoriju un stingri turot stūri, ar augumu ir jāsasveras uz aizmuguri un jābremzē, izmantojot tikai aizmugurējās bremzes."
+    },
+    "answer": "41007"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Papildzmes_4.webp",
+    "question": "Par ko brīdina attēlotās ceļa zīmes?",
+    "answers": {
+      "40222": "Par 1 km garu nelīdzenu ceļa posmu.",
+      "40223": "Par nelīdzenu ceļa posmu pēc 1 km."
+    },
+    "answer": "40222"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Transportldzeku_izkrtojums_uz_brauktuves_15.webp",
+    "question": "Vai motocikla vadītājam attēlotajā situācijā atļauts braukt pa tramvaja sliežu klātni?",
+    "answers": {
+      "40065": "Atļauts.",
+      "40066": "Aizliegts."
+    },
+    "answer": "40065"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Braukanas_skana_un_braukanas_virziena_maia_11.webp",
+    "question": "Vai motocikla vadītājs ir ieņēmis pareizu stāvokli uz brauktuves, lai krustojumā nogrieztos pa kreisi?",
+    "answers": {
+      "39898": "Nav ieņēmis pareizu stāvokli uz brauktuves.",
+      "39899": "Ir ieņēmis pareizu stāvokli uz brauktuves."
+    },
+    "answer": "39898"
+  },
+  {
+    "media": "bildes_A_kat_7._Tehniskais_stvoklis_mocis.webp",
+    "question": "Kā tiks ietekmēta motocikla vadāmība, ja brauciena laikā pārtrūkst piedziņas ķēde?",
+    "answers": {
+      "40687": "Ķēdes pārrāvums var izraisīt aizmugurējā riteņa bloķēšanos un kontroles pār motociklu zaudēšanu.",
+      "40688": "Motocikla vadāmību tas neietekmē, jo ir iespējams nobremzēt, izmantojot gan priekšējās, gan aizmugurējās bremzes.",
+      "40689": "Ķēdes pārrāvums var izraisīt priekšējā riteņa bloķēšanos un kontroles pār motociklu zaudēšanu."
+    },
+    "answer": "40687"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Apstans,_stvana_3.webp",
+    "question": "Vai motocikls pareizi novietots stāvēšanai?",
+    "answers": {
+      "39936": "Nepareizi.",
+      "39937": "Pareizi."
+    },
+    "answer": "39936"
+  },
+  {
+    "media": "bildes_b_25_Pirma_palidziba_25_5.webp",
+    "question": "Ja nelaimes gadījuma vietā atrodas tikai viens palīdzības sniedzējs, kādā secībā viņam jāveic glābšanas ķēdītes posmi?",
+    "answers": {
+      "4186": "1) tūlītējie pasākumi; 2) palīdzības izsaukšana; 3) cietušā aprūpe.",
+      "4187": "1) palīdzības izsaukšana; 2) tūlītējie pasākumi; 3) cietušā aprūpe.",
+      "4188": "1) tūlītējie pasākumi; 2) cietušā aprūpe; 3) palīdzības izsaukšana."
+    },
+    "answer": "4186"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Brdinjuma_13.webp",
+    "question": "Kā rīkosieties, ieraugot attēlā redzamo ceļa zīmi?",
+    "answers": {
+      "40121": "Izvēlēšos atbilstošu ātrumu un būšu gatavs tam, ka uz ceļa var izskriet savvaļas dzīvnieki.",
+      "40122": "Lietošu garus skaņas signālus, lai aizbaidītu savvaļas dzīvniekus.",
+      "40123": "Ieslēgšu visas iespējamās apgaismes ierīces, lai dzīvnieki mani laikus pamanītu un neskrietu uz ceļa."
+    },
+    "answer": "40121"
+  },
+  {
+    "media": "bildes_A_kat_beigta_balle.webp",
+    "question": "“Pat neliela alkohola daudzuma lietošana pirms motocikla vadīšanas rada negatīvu ietekmi uz vadītāja reakcijas ātrumu, koordināciju, redzi un lēmumu pieņemšanu.” Kā vērtējat šādu apgalvojumu?",
+    "answers": {
+      "41510": "Tas ir pareizs.",
+      "41511": "Tas ir nepareizs."
+    },
+    "answer": "41510"
+  },
+  {
+    "media": "bildes_A_kat_6._Citi_dalbnieki_10.webp",
+    "question": "Kā rīkosieties, ja, iedegoties atļaujošajam luksofora signālam, gājējs vēl nav šķērsojis gājēju pāreju?",
+    "answers": {
+      "40660": "Došu iespēju gājējam pabeigt brauktuves šķērsošanu.",
+      "40661": "Lēnām sākšu kustību un pasteidzināšu gājēju uztaurējot."
+    },
+    "answer": "40660"
+  },
+  {
+    "media": "bildes_A_kat_beigta_balle.webp",
+    "question": "Kādu iespaidu uz transportlīdzekļa vadītāju var atstāt paģiru stāvoklis, pieņemot, ka alkohola klātbūtne vadītāja organismā vairāk nav konstatējama?",
+    "answers": {
+      "41440": "Izraisa psihiskus traucējumus – bailes un trauksmes sajūtu.",
+      "41441": "Negatīvi ietekmē vadītāja spējas novērtēt situācijas attīstību un pieņemt pareizos lēmumus.",
+      "41442": "Mazina uzmanības noturību un pasliktina atmiņu.",
+      "41443": "Izraisa fiziskas izpausmes, piemēram, galvassāpes, reiboņus, roku trīci, paaugstinātu asinsspiedienu, sliktu dūšu.",
+      "41444": "Visas minētās atbildes ir pareizas."
+    },
+    "answer": "41444"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Apdzana,_samainans,_apsteigana_6.webp",
+    "question": "Vai motocikla vadītājam atļauts apdzīt attēlotajā situācijā?",
+    "answers": {
+      "39999": "Aizliegts.",
+      "40000": "Atļauts."
+    },
+    "answer": "39999"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Apstans,_stvana_8.webp",
+    "question": "Vai motocikls pareizi novietots stāvēšanai?",
+    "answers": {
+      "39938": "Nepareizi.",
+      "39939": "Pareizi."
+    },
+    "answer": "39938"
+  },
+  {
+    "media": "bildes_C_kat_20.Tehniskais_stavoklis__aprkojums_drosbas_ierices_arejas_apgaismes_ierices_apstajies-pirms-atsledzies.webp",
+    "question": "Kurā no minētajiem gadījumiem Jums vajadzētu atteikties no transportlīdzekļa vadīšanas?",
+    "answers": {
+      "41363": "Jūs esat tikko uzzinājis satraucošu ziņu.",
+      "41364": "Jūsu ķermeņa temperatūra ir 38°C.",
+      "41365": "Abās iepriekš minētajās situācijās."
+    },
+    "answer": "41365"
+  },
+  {
+    "media": "bildes_A_kat_3._Priekrocbas_Mainot_virzienu_4.webp",
+    "question": "Kura transportlīdzekļa vadītājam ir priekšroka, aizbraucot aiz nepārtrauktā ceļa apzīmējuma?",
+    "answers": {
+      "40495": "Automobiļa vadītājam.",
+      "40496": "Motocikla vadītājam."
+    },
+    "answer": "40495"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Termini_21.webp",
+    "question": "Kurš no apgalvojumiem apraksta jēdzienu “piespiedu apstāšanās”?",
+    "answers": {
+      "40879": "Transportlīdzekļa apturēšana, ja tas nepieciešams pasažiera veselības stāvokļa dēļ.",
+      "40880": "Transportlīdzekļa apturēšana pēc Ceļu policijas darbinieka pieprasījuma.",
+      "40881": "Transportlīdzekļa apturēšana, ja tas nepieciešams pasažiera uzņemšanai."
+    },
+    "answer": "40879"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Termini_1.webp",
+    "question": "Kādu manevru veic motocikla vadītājs attēlotajā situācijā?",
+    "answers": {
+      "39799": "Apdzīšanu.",
+      "39800": "Apsteigšanu.",
+      "39801": "Apbraukšanu."
+    },
+    "answer": "39799"
+  },
+  {
+    "media": "bildes_A_kat_5._Droa_vadana_17.webp",
+    "question": "Kādas sekas var rasties, ja motocikla priekšējās bremzes tiek lietotas nepareizi?",
+    "answers": {
+      "40563": "Var tikt bloķēts priekšējais ritenis, un tā sekas, visticamāk, būs kritiens.",
+      "40564": "Var tikt palielināts priekšējo bremžu uzliku nodilums.",
+      "40565": "Var tikt bojāta motocikla dakšas regulēšanas vai fiksācijas ierīce."
+    },
+    "answer": "40563"
+  },
+  {
+    "media": "bildes_A_kat_7._Tehniskais_stvoklis_mocis.webp",
+    "question": "Pazemināts gaisa spiediens riepās:",
+    "answers": {
+      "40702": "Negatīvi ietekmē motocikla vadāmību.",
+      "40703": "Paildzina riepas kalpošanas laiku.",
+      "40704": "Rada vienmērīgu protektora nodilumu."
+    },
+    "answer": "40702"
+  },
+  {
+    "media": "bildes_b_25_Pirma_palidziba_25_5.webp",
+    "question": "Kā pareizi konstatēt, vai cietušais zaudējis samaņu?",
+    "answers": {
+      "4183": "Skaļi uzrunājot un papurināt cietušo.",
+      "4184": "Pēc bālās ādas un platām acu zīlītēm.",
+      "4185": "Pataustot pulsu uz kakla."
+    },
+    "answer": "4183"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Brdinjuma_5.webp",
+    "question": "Par ko brīdina attēlotā ceļa zīme?",
+    "answers": {
+      "40096": "Par brauktuvi ar nelīdzenumiem (bedres u.tml.).",
+      "40097": "Par vienu aiz otra sekojošu ātrumvalni.",
+      "40098": "Par to, ka uz ceļa tiek veikti remontdarbi."
+    },
+    "answer": "40096"
+  },
+  {
+    "media": "bildes_A_kat_6._Citi_dalbnieki_15.webp",
+    "question": "Kura transportlīdzekļa vadītājam ir priekšroka attēlotajā situācijā?",
+    "answers": {
+      "40670": "Motocikla vadītājam.",
+      "40671": "Velosipēda vadītājam."
+    },
+    "answer": "40670"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Braukanas_skana_un_braukanas_virziena_maia_3.webp",
+    "question": "Kurā brīdī motocikla vadītājs drīkst ieslēgt virzienrādītāju, lai nogrieztos pa labi vārtos?",
+    "answers": {
+      "39876": "Tikai B.",
+      "39877": "Tikai A.",
+      "39878": "A un B."
+    },
+    "answer": "39876"
+  },
+  {
+    "media": "bildes_A_kat_3._Priekrocbas_Mainot_virzienu_7.webp",
+    "question": "Kurš pēc kārtas šķērsosiet krustojumu attēlotajā situācijā?",
+    "answers": {
+      "40501": "Trešais.",
+      "40502": "Otrais.",
+      "40503": "Pirmais."
+    },
+    "answer": "40501"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Rkojuma_tikai_taisni.webp",
+    "question": "Kāda ir darbības zona ceļa zīmei “Tikai taisni”?",
+    "answers": {
+      "40992": "Līdz ceļa zīmei “Apdzīvotas vietas beigas”.",
+      "40993": "Līdz tuvākajam krustojumam."
+    },
+    "answer": "40992"
+  },
+  {
+    "media": "bildes_A_kat_5._Droa_vadana_16.webp",
+    "question": "Bremzējot ir jāņem vērā: jo slidenāka ir brauktuves virsma, jo vairāk ir jālieto aizmugurējās bremzes, proporcionāli mazinot kopējo bremzēšanas spēku. Kā vērtējat šādu apgalvojumu?",
+    "answers": {
+      "40558": "Tas ir pareizs.",
+      "40559": "Tas ir nepareizs."
+    },
+    "answer": "40558"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Transportldzeku_izkrtojums_uz_brauktuves_4.webp",
+    "question": "Cik braukšanas joslu ir attēlotajam ceļam?",
+    "answers": {
+      "40037": "Četras joslas.",
+      "40038": "Divas joslas.",
+      "40039": "Piecas joslas.",
+      "40040": "Viena josla."
+    },
+    "answer": "40037"
+  },
+  {
+    "media": "bildes_A_kat_7._Tehniskais_stvoklis_Oil_level.webp",
+    "question": "Kā rīkosieties, ja, vadot motociklu, mēraparātu panelī iedegas attēlotā indikācija?",
+    "answers": {
+      "40748": "Nekavējoties apturēšu motociklu.",
+      "40749": "Turpināšu braukt un, tiklīdz būs iespējams, pārbaudīšu motocikla tehnisko stāvokli.",
+      "40750": "Palielināšu braukšanas ātrumu, lai labāk dzesētu motoru."
+    },
+    "answer": "40748"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Aizlieguma_22.webp",
+    "question": "Vai motocikla vadītājam atļauts apstāties, lai uzņemtu pasažieri attēlotajā situācijā?",
+    "answers": {
+      "40427": "Aizliegts.",
+      "40428": "Atļauts."
+    },
+    "answer": "40427"
+  },
+  {
+    "media": "bildes_b_25_Pirma_palidziba_25_1.webp",
+    "question": "Kurš pirmais drīkst pārtraukt palīdzības izsaucēja sarunu ar Ātrās palīdzības dispečeru?",
+    "answers": {
+      "4178": "Ātrās palīdzības dispečers.",
+      "4179": "Tam nav būtiskas nozīmes.",
+      "4180": "Palīdzības izsaucējs."
+    },
+    "answer": "4178"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Papildzmes_6.webp",
+    "question": "Kurš no transportlīdzekļiem ir apstājies ceļa zīmes “Apstāties aizliegts” darbības zonā?",
+    "answers": {
+      "40227": "Automobilis.",
+      "40228": "Motocikls.",
+      "40229": "Abi transportlīdzekļi."
+    },
+    "answer": "40229"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Papildzmes_5.webp",
+    "question": "Ko nosaka attēlotā papildzīme?",
+    "answers": {
+      "40224": "Aizliegts apdzīt 500 m garā ceļa posmā.",
+      "40225": "Aizliegts apstāties 500 m garā ceļa posmā.",
+      "40226": "Aizliegts apdzīt un apstāties 500 m garā ceļa posmā."
+    },
+    "answer": "40224"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Aizlieguma_3.webp",
+    "question": "Attēlotās ceļa zīmes darbība attiecas uz:",
+    "answers": {
+      "40378": "Vadītāju, kurš izmanto īsāko ceļu, lai nokļūtu sev vēlamā vietā.",
+      "40379": "Vadītāju, kurš dzīvo aiz attēlotās ceļa zīmes.",
+      "40380": "Vadītāju, kurš brauc saņemt vai nogādāt kravu aiz attēlotās ceļa zīmes.",
+      "40381": "Vadītāju, kurš strādā aiz attēlotās ceļa zīmes."
+    },
+    "answer": "40378"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Braukanas_trums_3.webp",
+    "question": "Turpinot kustību, Jūsu vadītā motocikla braukšanas ātrums nedrīkst pārsniegt:",
+    "answers": {
+      "39962": "20 km/h.",
+      "39963": "30 km/h.",
+      "39964": "50 km/h."
+    },
+    "answer": "39962"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Nordjuma_5.webp",
+    "question": "Ko norāda attēlotā ceļa zīme?",
+    "answers": {
+      "40304": "Pretējā josla ir paredzēta pasažieru sabiedriskajam transportam, elektromobiļiem, taksometriem, divriteņu mopēdiem un motocikliem.",
+      "40305": "Pretim var braukt kravas automobiļi.",
+      "40306": "Pa labo joslu drīkst braukt tikai taisni."
+    },
+    "answer": "40304"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Papildzmes_11.webp",
+    "question": "Kāds ir maksimāli atļautais ātrums ārpus apdzīvotas vietas attēlotajā situācijā?",
+    "answers": {
+      "40241": "50 km/h.",
+      "40242": "90 km/h.",
+      "40243": "Pēc vadītāja ieskatiem, bet nepārsniedzot 80 km/h."
+    },
+    "answer": "40241"
+  },
+  {
+    "media": "bildes_A_kat_7._Tehniskais_stvoklis_brauc.webp",
+    "question": "Vai diennakts gaišajā laikā atļauts piedalīties ceļu satiksmē, ja ir ieslēgts tikai priekšējais un aizmugurējais gabarītlukturis?",
+    "answers": {
+      "40983": "Aizliegts.",
+      "40984": "Atļauts."
+    },
+    "answer": "40983"
+  },
+  {
+    "media": "bildes_A_kat_7._Tehniskais_stvoklis_tubeless.webp",
+    "question": "Ar attēlā redzamo marķējumu (“TUBELESS”) apzīmē:",
+    "answers": {
+      "40690": "Bezkameras riepu.",
+      "40691": "Riepu ar kameru.",
+      "40692": "Zemspiediena riepu."
+    },
+    "answer": "40690"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Apstans,_stvana_4.webp",
+    "question": "Kurā no attēlotajām vietām ir atļauts apstāties?",
+    "answers": {
+      "39925": "B.",
+      "39926": "C.",
+      "39927": "A un B."
+    },
+    "answer": "39925"
+  },
+  {
+    "media": "bildes_A_kat_6._Citi_dalbnieki_16.webp",
+    "question": "Vai velosipēda vadītājam ir atļauts veikt kreiso pagriezienu no kreisā malējā stāvokļa?",
+    "answers": {
+      "40672": "Atļauts.",
+      "40673": "Aizliegts."
+    },
+    "answer": "40672"
+  },
+  {
+    "media": "video_A_kat_A_Citu_satiksmes_dalbnieku_intereu_ievroana_Atpakagaita1_MP4.webp",
+    "question": "Video jautājums\nKā ir jārīkojas motocikla vadītājam attēlotajā situācijā?",
+    "answers": {
+      "41126": "Jāapstājas un jāsagaida, kad kravas automobilis pabeigs atpakaļgaitas manevru un brauktuve atbrīvosies.",
+      "41127": "Jāapbrauc kravas automobilis pa brauktuves labo malu.",
+      "41128": "Jāapbrauc kravas automobilis pa brauktuves kreiso malu."
+    },
+    "answer": "41126"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Braukanas_skana_un_braukanas_virziena_maia_9.webp",
+    "question": "Vai motocikla vadītājs ir ieņēmis pareizu stāvokli uz brauktuves, lai nogrieztos pa kreisi?",
+    "answers": {
+      "39893": "Nav ieņēmis pareizu stāvokli uz brauktuves.",
+      "39894": "Ir ieņēmis pareizu stāvokli uz brauktuves."
+    },
+    "answer": "39893"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Termini_21.webp",
+    "question": "Kam ir tiesības apturēt transportlīdzekli?",
+    "answers": {
+      "40980": "Policijas darbiniekiem, robežsargiem un muitas darbiniekiem.",
+      "40981": "Apsardzes darbiniekiem.",
+      "40982": "Abas minētās atbildes ir pareizas."
+    },
+    "answer": "40980"
+  },
+  {
+    "media": "bildes_A_kat_5._Droa_vadana_123.webp",
+    "question": "Kura no attēlotajām vietām uz brauktuves ir visdrošākā motocikla vadītājam?",
+    "answers": {
+      "40551": "C.",
+      "40552": "A.",
+      "40553": "B."
+    },
+    "answer": "40551"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Transportldzeku_izkrtojums_uz_brauktuves_7.webp",
+    "question": "Vai motocikla vadītājam atļauts braukt pa attēlā redzamo joslu ārpus apdzīvotas vietas?",
+    "answers": {
+      "40045": "Atļauts līdz brīdim, kamēr vidējā un labā josla ir aizņemta.",
+      "40046": "Aizliegts."
+    },
+    "answer": "40045"
+  },
+  {
+    "media": "bildes_A_kat_apstajies-pirms-atsledzies.webp",
+    "question": "Motocikla vadītājs braucot sajūt vairākas miegainības pazīmes. Cik ilgi būtu jāguļ, lai samazinātu miegainību un drošāk varētu turpināt ceļu?",
+    "answers": {
+      "41507": "15–20 minūtes.",
+      "41508": "60–70 minūtes.",
+      "41509": "40–50 minūtes."
+    },
+    "answer": "41507"
+  },
+  {
+    "media": "bildes_A_kat_beigta_balle.webp",
+    "question": "Kā alkoholisko dzērienu lietošana ietekmē transportlīdzekļa vadītāja reakcijas laiku?",
+    "answers": {
+      "41437": "Reakcijas laiks palielinās.",
+      "41438": "Reakcijas laiks samazinās.",
+      "41439": "Reakcijas laiks neizmainās."
+    },
+    "answer": "41437"
+  },
+  {
+    "media": "bildes_A_kat_3._Priekrocbas_Ar_zmm_6_1.webp",
+    "question": "Kā ir jārīkojas motocikla vadītājam, šķērsojot krustojumu?",
+    "answers": {
+      "41191": "Jādod ceļš tikai tramvaja vadītājam.",
+      "41192": "Jādod ceļš abu transportlīdzekļu vadītājiem.",
+      "41193": "Jādod ceļš tikai automobiļa vadītājam.",
+      "41194": "Jāpārbrauc krustojums pirmajam."
+    },
+    "answer": "41191"
+  },
+  {
+    "media": "bildes_A_kat_7._Aizsargtrps_moto.webp",
+    "question": "Kas ir jāņem vērā, izvēloties motociklista jaku?",
+    "answers": {
+      "40862": "Jakā ir jābūt iestrādātiem elkoņu, plecu un muguras aizsargiem.",
+      "40863": "Jakai ir jābūt ražotai no dabīgās ādas.",
+      "40864": "Jaka nedrīkst būt ražota no perforēta materiāla.",
+      "40865": "Visas minētās atbildes ir pareizas."
+    },
+    "answer": "40862"
+  },
+  {
+    "media": "bildes_b_25_Pirma_palidziba_25_10.webp",
+    "question": "Kurā attēlā pareizi tiek atbrīvoti elpceļi cietušajam, kurš zaudējis samaņu?",
+    "answers": {
+      "39655": "A.",
+      "39656": "B.",
+      "39657": "Abi paņēmieni ir pareizi.",
+      "39658": "Abi paņēmieni nav pareizi."
+    },
+    "answer": "39655"
+  },
+  {
+    "media": "bildes_A_kat_7._Tehniskais_stvoklis_mocis.webp",
+    "question": "Ja motocikla ķēde ir nospriegota tā, ka tās spriegojuma pārbaudes zonā nav novērojama brīvkustība:",
+    "answers": {
+      "40676": "Ķēde ir pārspriegota.",
+      "40677": "Ķēde ir atbilstoši nospriegota."
+    },
+    "answer": "40676"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Braukanas_skana_un_braukanas_virziena_maia_2.webp",
+    "question": "Vai attēlotajā situācijā, nogriežoties pa kreisi, ir jārāda virzienrādītājs?",
+    "answers": {
+      "39873": "Ir jārāda, jo veicu manevru pa kreisi.",
+      "39874": "Nav jārāda, jo braukšu pa galveno ceļu.",
+      "39875": "Pēc maniem ieskatiem, var rādīt vai nerādīt."
+    },
+    "answer": "39873"
+  },
+  {
+    "media": "video_A_kat_A_Bstambas_paredzana_Akmentini1_MP4.webp",
+    "question": "Video jautājums\nKas ir jāņem vērā motocikla vadītājam attēlotajā situācijā?",
+    "answers": {
+      "41062": "Uz brauktuves uzbērtie akmentiņi var izraisīt riteņu saķeres zudumu ar ceļa virsmu.",
+      "41063": "Braukšana zemas satiksmes intensitātes apstākļos ir droša.",
+      "41064": "Mazie akmentiņi var pārdurt motocikla riepas."
+    },
+    "answer": "41062"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Brdinjuma_3.webp",
+    "question": "Par ko brīdina ceļa zīme?",
+    "answers": {
+      "40090": "Par ceļa sašaurinājumu no labās puses.",
+      "40091": "Par ceļa sašaurinājumu no kreisās puses.",
+      "40092": "Par to, ka būs jābrauc pretējā braukšanas joslā."
+    },
+    "answer": "40090"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Apdzana,_samainans,_apsteigana_11.webp",
+    "question": "Vai motocikla vadītājam atļauts apdzīt attēlotajā situācijā?",
+    "answers": {
+      "40009": "Aizliegts.",
+      "40010": "Atļauts.",
+      "40011": "Aizliegts pie autobusa pieturām."
+    },
+    "answer": "40009"
+  },
+  {
+    "media": "bildes_A_kat_7._Tehniskais_stvoklis_mocis.webp",
+    "question": "Kāds ir minimālais pieļaujamais riepas protektora dziļums motocikliem?",
+    "answers": {
+      "40696": "0,8 mm.",
+      "40697": "1,6 mm.",
+      "40698": "2,0 mm."
+    },
+    "answer": "40696"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Apstans,_stvana_7.webp",
+    "question": "Vai motocikls pareizi novietots stāvēšanai?",
+    "answers": {
+      "39934": "Pareizi.",
+      "39935": "Nepareizi."
+    },
+    "answer": "39934"
+  },
+  {
+    "media": "bildes_A_kat_3._Priekrocbas_Reguljamos_2.webp",
+    "question": "Kā rīkosieties, krustojumā nogriežoties pa kreisi?",
+    "answers": {
+      "40458": "Došu ceļu abu transportlīdzekļu vadītājiem.",
+      "40459": "Došu ceļu tikai operatīvā transportlīdzekļa vadītājam.",
+      "40460": "Šķērsošu krustojumu pirmais."
+    },
+    "answer": "40458"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Transportldzeku_izkrtojums_uz_brauktuves_12.webp",
+    "question": "Kuros virzienos atļauts braukt motocikla vadītājam ārpus apdzīvotas vietas?",
+    "answers": {
+      "40057": "Tikai pa kreisi un apgriezties braukšanai pretējā virzienā.",
+      "40058": "Taisni, pa kreisi un apgriezties braukšanai pretējā virzienā.",
+      "40059": "Tikai taisni."
+    },
+    "answer": "40057"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Papildzmes_18.webp",
+    "question": "Par ko informē attēlotā ceļa zīme?",
+    "answers": {
+      "40258": "Par nepieciešamību pārkārtoties uz blakusjoslu.",
+      "40259": "Par nepieciešamību pārkārtoties uz citu brauktuvi.",
+      "40260": "Par ieskrējiena joslas beigām."
+    },
+    "answer": "40258"
+  },
+  {
+    "media": "bildes_C_kat_20.Tehniskais_stavoklis__aprkojums_drosbas_ierices_arejas_apgaismes_ierices_apstajies-pirms-atsledzies.webp",
+    "question": "Kuras no minētajām pazīmēm liecina par nogurumu – brīdi, kad ir nekavējoties jāpārtrauc transportlīdzekļa vadīšana?",
+    "answers": {
+      "41398": "“Logi” atmiņā – neatceraties, kā esat nobraucis kādu ceļa posmu.",
+      "41399": "Roku un kāju pirksti ir auksti, kaut arī gaisa temperatūra ir 22°C.",
+      "41400": "Jūs vairākkārtīgi nožāvājaties."
+    },
+    "answer": "41398"
+  },
+  {
+    "media": "bildes_C_kat_20.Tehniskais_stavoklis__aprkojums_drosbas_ierices_arejas_apgaismes_ierices_apstajies-pirms-atsledzies.webp",
+    "question": "“Kamēr es spēju turēt acis vaļā, es neiemigšu.” Kā vērtēt šādu transportlīdzekļa vadītāja apgalvojumu?",
+    "answers": {
+      "41222": "Tas ir nepareizs.",
+      "41223": "Tas ir pareizs."
+    },
+    "answer": "41222"
+  },
+  {
+    "media": "video_A_kat_A_Bstambas_paredzana_Akmentini1_MP4.webp",
+    "question": "Video jautājums\nKas ir jāņem vērā motocikla vadītājam attēlotajā situācijā?",
+    "answers": {
+      "41065": "Pretim braucošais automobilis var uzmest akmentiņus un traumēt motocikla vadītāju.",
+      "41066": "Braukšana zemas satiksmes intensitātes apstākļos ir droša.",
+      "41067": "Mazie akmentiņi var pārdurt motocikla riepas."
+    },
+    "answer": "41065"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Papildzmes_1.webp",
+    "question": "Par ko brīdina attēlotās ceļa zīmes?",
+    "answers": {
+      "40212": "Par ceļa posmu ar bīstamu pagriezienu pēc 200 m.",
+      "40213": "Par bīstamu pagriezienu 200 m garumā aiz ceļa zīmes.",
+      "40214": "Par bīstamu pagriezienu ar 200 m rādiusu."
+    },
+    "answer": "40212"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Nordjuma_3.webp",
+    "question": "Ko norāda attēlotā ceļa zīme?",
+    "answers": {
+      "41337": "Pa labo joslu atļauts braukt pasažieru sabiedriskajiem transportlīdzekļiem, elektromobiļiem, taksometriem, divriteņu mopēdiem un motocikliem.",
+      "41338": "Priekšā būs autobusa pieturvieta.",
+      "41339": "Labā josla ir vienvirziena josla.",
+      "41340": "Pa labo joslu atļauts braukt tikai pasažieru sabiedriskajiem transportlīdzekļiem."
+    },
+    "answer": "41337"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Aizlieguma_16.webp",
+    "question": "Kā rīkosieties attēlotajā situācijā?",
+    "answers": {
+      "41421": "Ja nav iespējams izvēlēties citu maršrutu, apturēšu motocikli tieši pirms zīmes un gaidīšu policijas darbinieka atļauju turpināt ceļu.",
+      "41422": "Ievērojot piesardzību, apbraukšu šķērsli pa pretējā virziena braukšanas joslu.",
+      "41423": "Apturēšu motociklu tieši pirms zīmes un, kad būs brīva pretējā virziena braukšanas josla, apbraukšu šķērsli."
+    },
+    "answer": "41421"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Servisa_1.webp",
+    "question": "Par ko informē attēlā redzamās ceļa zīmes?",
+    "answers": {
+      "40261": "Par degvielas uzpildes staciju pēc 300 m.",
+      "40262": "Par iespēju uzlādēt telefonu pēc 300 m.",
+      "40263": "Par elektrisko transportlīdzekļu uzlādes staciju pēc 300 m."
+    },
+    "answer": "40261"
+  },
+  {
+    "media": "bildes_A_kat_6._Citi_dalbnieki_5.webp",
+    "question": "Kuram satiksmes dalībniekam ir priekšroka attēlotajā situācijā?",
+    "answers": {
+      "40650": "Gājējam.",
+      "40651": "Motocikla vadītājam."
+    },
+    "answer": "40650"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Transportldzeku_izkrtojums_uz_brauktuves_18.webp",
+    "question": "Vai motocikla vadītājam attēlotajā situācijā atļauts braukt pa tramvaja sliežu klātni?",
+    "answers": {
+      "40069": "Aizliegts.",
+      "40070": "Atļauts."
+    },
+    "answer": "40069"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Braukanas_skana_un_braukanas_virziena_maia_4.webp",
+    "question": "Kurā brīdī motocikla vadītājs drīkst ieslēgt virzienrādītāju, lai aplī izbrauktu pa attēlā redzamo trajektoriju?",
+    "answers": {
+      "39879": "Tikai B.",
+      "39880": "Tikai A.",
+      "39881": "A un B."
+    },
+    "answer": "39879"
+  },
+  {
+    "media": "bildes_A_kat_5._Droa_vadana_25.webp",
+    "question": "Visdrošāk brauc motocikla vadītājs, kurš:",
+    "answers": {
+      "40588": "Rūpējas par savu un satiksmes drošību.",
+      "40589": "Vislabāk ir apguvis vadīšanas tehniku sarežģītos apstākļos.",
+      "40590": "Tikko ir labi apguvis un vēl nav aizmirsis braukšanas instruktoru iemācīto braukšanas tehniku.",
+      "40591": "Ir spējīgs iegūt godalgotu vietu motociklu ātruma sacensībās."
+    },
+    "answer": "40588"
+  },
+  {
+    "media": "bildes_A_kat_5._Droa_vadana_37.webp",
+    "question": "Ceļa līkumā braucāt ar ātrumu 30 km/h. Kā izmainīsies centrbēdzes spēks, ja nākošreiz šajā pašā līkumā brauksiet ar ātrumu 60 km/h?",
+    "answers": {
+      "40624": "Braucot ar ātrumu 60 km/h, centrbēdzes spēks būs četrreiz lielāks nekā braucot ar ātrumu 30 km/h.",
+      "40625": "Braucot ar ātrumu 60 km/h, centrbēdzes spēks būs tāds pats kā braucot ar ātrumu 30 km/h.",
+      "40626": "Braucot ar ātrumu 60 km/h, centrbēdzes spēks būs divreiz lielāks nekā braucot ar ātrumu 30 km/h."
+    },
+    "answer": "40624"
+  },
+  {
+    "media": "bildes_A_kat_7._Tehniskais_stvoklis_abc.webp",
+    "question": "Kurā no attēlā norādītajām zonām ir jāpārbauda ķēdes spriegojums?",
+    "answers": {
+      "40684": "A.",
+      "40685": "B.",
+      "40686": "C."
+    },
+    "answer": "40684"
+  },
+  {
+    "media": "bildes_A_kat_3._Priekrocbas_Ar_zmm_5.webp",
+    "question": "Kā rīkosieties, šķērsojot krustojumu?",
+    "answers": {
+      "40448": "Došu ceļu tikai autobusa vadītājam.",
+      "40449": "Došu ceļu abu transportlīdzekļu vadītājiem.",
+      "40450": "Došu ceļu tikai mikroautobusa vadītājam.",
+      "40451": "Šķērsošu krustojumu pirmais."
+    },
+    "answer": "40448"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Apdzana,_samainans,_apsteigana_5.webp",
+    "question": "Vai motocikla vadītājam atļauts apdzīt attēlotajā situācijā?",
+    "answers": {
+      "39997": "Aizliegts.",
+      "39998": "Atļauts."
+    },
+    "answer": "39997"
+  },
+  {
+    "media": "video_A_kat_A_Citu_satiksmes_dalbnieku_intereu_ievroana_Tramvajs1_MP4.webp",
+    "question": "Video jautājums\nKas ir jāņem vērā motocikla vadītājam attēlotajā situācijā?",
+    "answers": {
+      "41146": "Gājēji šķērsos brauktuvi, un tiem ir priekšroka.",
+      "41147": "Gājēji šķērsos brauktuvi tikai tad, kad motocikla vadītājs būs pabraucis garām.",
+      "41148": "Tramvajs krustojumā nogriezīsies pa labi."
+    },
+    "answer": "41146"
+  },
+  {
+    "media": "bildes_A_kat_5._Droa_vadana_21.webp",
+    "question": "Kādu distanci var uzskatīt par optimālu?",
+    "answers": {
+      "40573": "Tādu, kas ļauj nobremzēt, neuzbraucot priekšā braucošajam transportlīdzeklim.",
+      "40574": "Tādu, kas ļauj apbraukt priekšā braucošu transportlīdzekli, ja tas strauji bremzē.",
+      "40575": "Tādu, kas gaišā diennakts laikā liedz saskatīt priekšā braucoša transportlīdzekļa numurzīmi."
+    },
+    "answer": "40573"
+  },
+  {
+    "media": "bildes_A_kat_5._Droa_vadana_11.webp",
+    "question": "Kāda motocikla vadītāja rīcība apdraud ceļu satiksmes drošību?",
+    "answers": {
+      "40533": "Strauja paātrināšanas un bieža joslu maiņa intensīvā satiksmē.",
+      "40534": "Braukšana ar ievērojami lielāku ātrumu nekā pārējai transportlīdzekļu plūsmai.",
+      "40535": "Drošas distances un droša intervāla neievērošana.",
+      "40536": "Visas minētās atbildes ir pareizas."
+    },
+    "answer": "40536"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Transportldzeku_izkrtojums_uz_brauktuves_9.webp",
+    "question": "Vai motocikla vadītājam atļauts turpināt braukt taisnā virzienā pa ieņemto joslu?",
+    "answers": {
+      "40050": "Aizliegts.",
+      "40051": "Atļauts."
+    },
+    "answer": "40050"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Aizlieguma_21.webp",
+    "question": "Kāda ir “Apstāties aizliegts” ceļa zīmes darbības zona attēlotajā situācijā?",
+    "answers": {
+      "40424": "Līdz dzeltenās līnijas beigām.",
+      "40425": "Līdz tuvākajam krustojumam.",
+      "40426": "Līdz apdzīvotas vietas beigām."
+    },
+    "answer": "40424"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Brdinjuma_14.webp",
+    "question": "Par ko brīdina attēlotā ceļa zīme?",
+    "answers": {
+      "40124": "Par to, ka brauktuvi šķērsos velosipēdu ceļš.",
+      "40125": "Par to, ka uz ietves ir izbūvēts velosipēdu ceļš.",
+      "40126": "Par to, ka velosipēdisti var braukt pa brauktuves labo malu."
+    },
+    "answer": "40124"
+  },
+  {
+    "media": "bildes_A_kat_3._Priekrocbas_Reguljamos_3.webp",
+    "question": "Kā ir jārīkojas motocikla vadītājam, šķērsojot krustojumu?",
+    "answers": {
+      "40461": "Jādod ceļš dzeltenā automobiļa vadītājam.",
+      "40462": "Jāšķērso krustojums pirmajam."
+    },
+    "answer": "40461"
+  },
+  {
+    "media": "bildes_A_kat_apstajies-pirms-atsledzies.webp",
+    "question": "Kura no minētajām pazīmēm liecina par nogurumu – brīdi, kad ir nekavējoties jāpārtrauc motocikla vadīšana?",
+    "answers": {
+      "41501": "Jūs vairākkārtīgi nožāvājaties, Jums ir grūti koncentrēties motocikla vadīšanai.",
+      "41502": "Jums sāk kļūt garlaicīgi.",
+      "41503": "Jums rodas vēlēšanās košļāt košļājamo gumiju un klausīties mūziku."
+    },
+    "answer": "41501"
+  },
+  {
+    "media": "bildes_A_kat_6._Citi_dalbnieki_3.webp",
+    "question": "Kuram satiksmes dalībniekam ir priekšroka attēlotajā situācijā?",
+    "answers": {
+      "40646": "Gājējam.",
+      "40647": "Motocikla vadītājam."
+    },
+    "answer": "40646"
+  },
+  {
+    "media": "bildes_A_kat_7._Tehniskais_stvoklis_mocis.webp",
+    "question": "Kas nosaka, kādam ir jābūt gaisa spiedienam motocikla aizmugurējā un priekšējā riepā?",
+    "answers": {
+      "41415": "Motocikla ražotājs, uz kura ražotā motocikla riepas ir uzstādītas.",
+      "41416": "Riepu ražotājs.",
+      "41417": "Motocikla vadītājs."
+    },
+    "answer": "41415"
+  },
+  {
+    "media": "bildes_C_kat_20.Tehniskais_stavoklis__aprkojums_drosbas_ierices_arejas_apgaismes_ierices_apstajies-pirms-atsledzies.webp",
+    "question": "Kura no minētajām pazīmēm liecina par nogurumu – brīdi, kad ir nekavējoties jāpārtrauc transportlīdzekļa vadīšana?",
+    "answers": {
+      "41300": "Grūti noturēt acis vaļā, bieža mirkšķināšana, bieža vēlme berzēt acis.",
+      "41301": "Bremzējot izslīd priekšējais ritenis.",
+      "41302": "Jūs saprotat, ka esat apmaldījies, aizbraucis pa nepareizo ceļu."
+    },
+    "answer": "41300"
+  },
+  {
+    "media": "bildes_A_kat_7._Aizsargtrps_moto.webp",
+    "question": "Kas ir jāņem vērā, izvēloties motociklista jaku?",
+    "answers": {
+      "40858": "Jakā ir jābūt iestrādātiem elkoņu, plecu un muguras aizsargiem.",
+      "40859": "Jakai ir jāatbilst laikapstākļiem.",
+      "40860": "Jakai ir jābūt atbilstoša izmēra un ērti pieguļošai.",
+      "40861": "Visas minētās atbildes ir pareizas."
+    },
+    "answer": "40861"
+  },
+  {
+    "media": "bildes_A_kat_7._Tehniskais_stvoklis_Akumulatora_baterija.webp",
+    "question": "Attēlotā indikācija mēraparātu panelī informē par to, ka:",
+    "answers": {
+      "40751": "Ir nepietiekams spriegums elektrosistēmā.",
+      "40752": "Degvielas līmenis ir kritiski zems.",
+      "40753": "Dzesēšanas sistēmas radiators ir pārkarsis."
+    },
+    "answer": "40751"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Transportldzeku_izkrtojums_uz_brauktuves_23.webp",
+    "question": "Vai motocikla vadītājam atļauts veikt attēloto manevru?",
+    "answers": {
+      "40079": "Aizliegts.",
+      "40080": "Atļauts."
+    },
+    "answer": "40079"
+  },
+  {
+    "media": "bildes_b_25_Pirma_palidziba_25_14.1.webp",
+    "question": "Kurā attēlā sirds masāža tiek izpildīta pareizi?",
+    "answers": {
+      "39695": "A.",
+      "39696": "B.",
+      "39697": "Abi paņēmieni ir pareizi."
+    },
+    "answer": "39696"
+  },
+  {
+    "media": "bildes_A_kat_3._Priekrocbas_Mainot_virzienu_3.webp",
+    "question": "Kura transportlīdzekļa vadītājam ir priekšroka?",
+    "answers": {
+      "40493": "Automobiļa vadītājam.",
+      "40494": "Motocikla vadītājam."
+    },
+    "answer": "40493"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Transportldzeku_izkrtojums_uz_brauktuves_8.webp",
+    "question": "Kurā virzienā atļauts braukt motocikla vadītājam ārpus apdzīvotas vietas?",
+    "answers": {
+      "40047": "Taisni un apgriezties braukšanai pretējā virzienā.",
+      "40048": "Tikai taisni.",
+      "40049": "Tikai apgriezties braukšanai pretējā virzienā."
+    },
+    "answer": "40047"
+  },
+  {
+    "media": "bildes_A_kat_5._Droa_vadana_26.webp",
+    "question": "Braucot pagriezienā ar izspiestu sajūgu:",
+    "answers": {
+      "40598": "Motocikla vadāmība ir ierobežota, jo nav ieslēgts pārnesums.",
+      "40599": "Ir iespēja laidenāk izbraukt pagriezienu.",
+      "40600": "Motocikla vadāmība netiek ietekmēta."
+    },
+    "answer": "40598"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Aizlieguma_15.webp",
+    "question": "Ko aizliedz attēlotā ceļa zīme?",
+    "answers": {
+      "40404": "Turpināt ceļu.",
+      "40405": "Ātri braukt.",
+      "40406": "Turpināt ceļu, neapturot transportlīdzekli tieši pirms zīmes."
+    },
+    "answer": "40404"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Papildzmes_10.webp",
+    "question": "Ko norāda attēlotās ceļa zīmes?",
+    "answers": {
+      "40239": "Joslā, virs kuras uzstādītas zīmes, minimālā distance nedrīkst būt mazāka par 50 m.",
+      "40240": "Automobiļiem visās trijās joslās minimālā distance nedrīkst būt mazāka par 50 m."
+    },
+    "answer": "40239"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Transportldzeku_izkrtojums_uz_brauktuves_22.webp",
+    "question": "Vai attēlotajā situācijā motocikla vadītājam atļauts braukt pa pretējā virziena tramvaja sliežu klātni?",
+    "answers": {
+      "40077": "Aizliegts.",
+      "40078": "Atļauts, lai apbrauktu tramvaju."
+    },
+    "answer": "40077"
+  },
+  {
+    "media": "bildes_A_kat_3._Priekrocbas_Reguljamos_6.webp",
+    "question": "Kā ir jārīkojas motocikla vadītājam, šķērsojot krustojumu?",
+    "answers": {
+      "41207": "Jādod ceļš tramvaja vadītājam.",
+      "41208": "Jāšķērso krustojums pirmajam."
+    },
+    "answer": "41207"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Nordjuma_6.webp",
+    "question": "Ko norāda attēlotā ceļa zīme?",
+    "answers": {
+      "40307": "Maksimālos ātruma ierobežojumus joslās.",
+      "40308": "Maksimālos masas ierobežojumus joslās.",
+      "40309": "Minimālās distances ierobežojumus joslās."
+    },
+    "answer": "40307"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Braukanas_skana_un_braukanas_virziena_maia_20.webp",
+    "question": "Pa kuru no attēlotajām trajektorijām drīkst apgriezties braukšanai pretējā virzienā?",
+    "answers": {
+      "39917": "Pa A un C.",
+      "39918": "Pa A un B.",
+      "39919": "Pa B un C.",
+      "39920": "Pa jebkuru."
+    },
+    "answer": "39917"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Termini_29.webp",
+    "question": "Kā jārīkojas vadītājam, ja transportlīdzeklis tiek apstādināts pēc policijas pieprasījuma?",
+    "answers": {
+      "39866": "Jāpaliek sēdvietā, ja nav bijis uzaicinājuma to atstāt.",
+      "39867": "Jādodas pie policijas darbiniekiem."
+    },
+    "answer": "39866"
+  },
+  {
+    "media": "bildes_A_kat_7._Tehniskais_stvoklis_brauc.webp",
+    "question": "Vai motociklam ir jābūt aprīkotam ar atpakaļskata spoguļiem?",
+    "answers": {
+      "40789": "Ir jābūt aprīkotam abās pusēs.",
+      "40790": "Ir jābūt aprīkotam vismaz ar kreisās puses spoguli.",
+      "40791": "Ir jābūt aprīkotam vismaz ar labās puses spoguli.",
+      "40792": "Tā nav obligāta prasība."
+    },
+    "answer": "40789"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Apstans,_stvana_1.webp",
+    "question": "Vai motocikls pareizi novietots stāvēšanai?",
+    "answers": {
+      "39921": "Pareizi.",
+      "39922": "Nepareizi."
+    },
+    "answer": "39921"
+  },
+  {
+    "media": "bildes_A_kat_7._Aizsargtrps_42.webp",
+    "question": "Kā varat pārliecināties, ka ķivere atbilst atzītiem Eiropas drošības standartiem?",
+    "answers": {
+      "40801": "Tai ir jābūt marķētai ar ECE marķējumu.",
+      "40802": "Tai ir jābūt marķētai ar Patērētāju tiesību aizsardzības centra apstiprinājuma zīmi.",
+      "40803": "Ja ķivere ir nonākusi Latvijas tirgū, tā atbilst Eiropas drošības standartiem."
+    },
+    "answer": "40801"
+  },
+  {
+    "media": "bildes_A_kat_7._Aizsargtrps_9.webp",
+    "question": "Kuri no attēlotajiem cimdiem ir vispiemērotākie braucienam vēsā laikā?",
+    "answers": {
+      "40835": "C.",
+      "40836": "A.",
+      "40837": "B.",
+      "40838": "A un C."
+    },
+    "answer": "40835"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Papildzmes_16.webp",
+    "question": "Kas ir jāņem vērā, turpinot kustību?",
+    "answers": {
+      "41013": "Būs nelīdzens ceļš, ieteicamais ātrums 40 km/h.",
+      "41014": "Būs paugurains ceļš, maksimālais ātrums nedrīkst pārsniegt 40 km/h.",
+      "41015": "Būs bedrītes, jābrauc ar ātrumu, ne mazāku kā 40 km/h."
+    },
+    "answer": "41013"
+  },
+  {
+    "media": "bildes_A_kat_3._Priekrocbas_Ar_zmm_4.webp",
+    "question": "Kā rīkosieties, šķērsojot krustojumu?",
+    "answers": {
+      "40444": "Šķērsošu krustojumu trešais.",
+      "40445": "Šķērsošu krustojumu pirmais.",
+      "40446": "Šķērsošu krustojumu pēdējais.",
+      "40447": "Šķērsošu krustojumu otrais."
+    },
+    "answer": "40444"
+  },
+  {
+    "media": "bildes_A_kat_5._Droa_vadana_1.webp",
+    "question": "Kāpēc tiek uzskatīts, ka motocikla vadītāji ir mazāk aizsargāti ceļu satiksmes dalībnieki?",
+    "answers": {
+      "40508": "Grūtāk pamanāmi citiem ceļu satiksmes dalībniekiem.",
+      "40509": "Citi ceļu satiksmes dalībnieki nevar pazīt motocikla vadītāju, jo galvā aizsprādzēta aizsargķivere.",
+      "40510": "Motociklista aizsargtērps izgatavots no vēja necaurlaidīga materiāla.",
+      "40511": "Visas minētās atbildes ir pareizas."
+    },
+    "answer": "40508"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Brdinjuma_7.webp",
+    "question": "Par ko brīdina attēlotā ceļa zīme?",
+    "answers": {
+      "40102": "Par slidenu ceļu.",
+      "40103": "Par līkumotu ceļu.",
+      "40104": "Par ceļu ar šķēršļiem."
+    },
+    "answer": "40102"
+  },
+  {
+    "media": "video_A_kat_A_Bstambas_paredzana_Mitrs_bruis1_MP4.webp",
+    "question": "Video jautājums\nKas ir jāņem vērā motocikla vadītājam attēlotajā situācijā?",
+    "answers": {
+      "41110": "Ceļa segums ir īpaši slidens.",
+      "41111": "Braukšana zemas satiksmes intensitātes apstākļos ir droša.",
+      "41112": "Automobilis uzmet netīrumus no ceļa un pasliktina redzamību."
+    },
+    "answer": "41110"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Braukanas_skana_un_braukanas_virziena_maia_8.webp",
+    "question": "Vai motocikla vadītājs ir ieņēmis pareizu stāvokli uz brauktuves, lai nogrieztos pa kreisi?",
+    "answers": {
+      "39891": "Ir ieņēmis pareizu stāvokli uz brauktuves.",
+      "39892": "Nav ieņēmis pareizu stāvokli uz brauktuves."
+    },
+    "answer": "39891"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Braukanas_skana_un_braukanas_virziena_maia_1.webp",
+    "question": "Vai attēlotajā situācijā, braucot taisni, ir jārāda virzienrādītājs?",
+    "answers": {
+      "39870": "Nav jārāda, jo braucu taisni.",
+      "39871": "Ir jārāda, jo nobraucu no galvenā ceļa.",
+      "39872": "Pēc maniem ieskatiem, var rādīt vai nerādīt."
+    },
+    "answer": "39870"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Termini_17.webp",
+    "question": "Ceļu satiksmes noteikumu izpratnē motocikla vadītājs tuvojas:",
+    "answers": {
+      "39844": "Ceļa pārvadam.",
+      "39845": "Krustojumam.",
+      "39846": "Apgriešanās vietai."
+    },
+    "answer": "39844"
+  },
+  {
+    "media": "bildes_A_kat_7._Tehniskais_stvoklis_mocis.webp",
+    "question": "Riteņu pretbloķēšanas sistēmas jeb ABS darbības pamatprincips:",
+    "answers": {
+      "41409": "Pielāgo spiedienu bremžu sistēmā, nepieļaujot riteņa izslīdēšanu pret ceļa virsmu.",
+      "41410": "Palielina spiedienu bremžu sistēmā, padarot bremzes efektīvākas.",
+      "41411": "Palielina saķeres koeficientu riepām, uzlabojot bremzēšanas īpašības."
+    },
+    "answer": "41409"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Transportldzeku_izkrtojums_uz_brauktuves_16.webp",
+    "question": "Vai motocikla vadītājam atļauts šķērsot krustojumu pa tramvaja sliežu klātni plkst. 15:28?",
+    "answers": {
+      "41401": "Aizliegts.",
+      "41402": "Atļauts."
+    },
+    "answer": "41401"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Papildzmes_17.webp",
+    "question": "Par ko informē attēlotā ceļa zīme?",
+    "answers": {
+      "40255": "Par nepieciešamību pārkārtoties uz citu brauktuvi.",
+      "40256": "Par ieskrējiena joslas beigām.",
+      "40257": "Par nepieciešamību pārkārtoties uz blakusjoslu."
+    },
+    "answer": "40255"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Termini_25.webp",
+    "question": "Vai transportlīdzekļa vadītājam pirms braukšanas ir pienākums pārbaudīt transportlīdzekļa tehnisko kārtību?",
+    "answers": {
+      "39861": "Ir pienākums.",
+      "39862": "Ir ieteicams, bet nav obligāti."
+    },
+    "answer": "39861"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Termini_pasaieris.webp",
+    "question": "Kurš ir atbildīgs par to, lai motocikla pasažierim brauciena laikā galvā būtu aizsprādzēta aizsargķivere?",
+    "answers": {
+      "41162": "Motocikla vadītājs.",
+      "41163": "Pasažieris.",
+      "41164": "Abas minētās atbildes ir pareizas."
+    },
+    "answer": "41164"
+  },
+  {
+    "media": "bildes_C_kat_20.Tehniskais_stavoklis__aprkojums_drosbas_ierices_arejas_apgaismes_ierices_apstajies-pirms-atsledzies.webp",
+    "question": "Kuras no minētajām pazīmēm liecina par nogurumu – brīdi, kad ir nekavējoties jāpārtrauc transportlīdzekļa vadīšana?",
+    "answers": {
+      "41240": "Apstājoties pie luksofora aizliedzošā signāla, Jūs aizverat acis, lai atpūstos.",
+      "41241": "Bieži pret savu gribu Jums uznāk šķaudiens.",
+      "41242": "Jūs jūtaties izsalcis ātrāk nekā citas reizes."
+    },
+    "answer": "41240"
+  },
+  {
+    "media": "bildes_A_kat_7._Tehniskais_stvoklis_Dzesesanas_skidrums.webp",
+    "question": "Uz kādas sistēmas tehnisko stāvokli norāda attēlotā indikācija mēraparātu panelī?",
+    "answers": {
+      "40738": "Motora dzesēšanas sistēmas.",
+      "40739": "Motora eļļošanas sistēmas.",
+      "40740": "Degvielas padeves sistēmas."
+    },
+    "answer": "40738"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Brdinjuma_20.webp",
+    "question": "Kuras no ceļa zīmēm brīdina par to, ka brauktuvi var šķērsot citi transportlīdzekļi?",
+    "answers": {
+      "40143": "A, B un D.",
+      "40144": "A, D un E.",
+      "40145": "C, D un F.",
+      "40146": "A, B un E."
+    },
+    "answer": "40143"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Servisa_6.webp",
+    "question": "Par ko informē attēlā redzamā ceļa zīme?",
+    "answers": {
+      "40276": "Virzienā pa labi atrodas prāmju osta.",
+      "40277": "Virzienā pa labi atrodas kravas osta.",
+      "40278": "Virzienā pa labi atrodas jūras pasažieru stacija (osta)."
+    },
+    "answer": "40276"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Termini_12.webp",
+    "question": "Cik brauktuvju ir attēlā redzamajā situācijā?",
+    "answers": {
+      "39830": "Divas.",
+      "39831": "Viena.",
+      "39832": "Četras."
+    },
+    "answer": "39830"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Servisa_3.webp",
+    "question": "Par ko informē attēlā redzamās ceļa zīmes?",
+    "answers": {
+      "40267": "Par to, ka pēc 800 m būs tehniskās apkopes punkts.",
+      "40268": "Par to, ka pēc 800 m būs tehniskās apskates stacija.",
+      "40269": "Par to, ka pēc 800 m būs auto rezerves daļu veikals."
+    },
+    "answer": "40267"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Brdinjuma_17.webp",
+    "question": "Par ko brīdina attēlotās ceļa zīmes?",
+    "answers": {
+      "40133": "Par dzelzceļa pārbrauktuvi ar barjeru pēc 50 metriem.",
+      "40134": "Par dzelzceļa pārbrauktuvi bez barjeras pēc 100 metriem.",
+      "40135": "Par lauku sētu ar nozīmīgu apskates objektu."
+    },
+    "answer": "40133"
+  },
+  {
+    "media": "bildes_A_kat_3._Priekrocbas_Reguljamos_4.webp",
+    "question": "Kā rīkosieties, šķērsojot krustojumu, ja luksoforā deg dzeltens mirgojošs signāls?",
+    "answers": {
+      "40463": "Došu ceļu pretimbraucošā automobiļa vadītājam.",
+      "40464": "Šķērsošu krustojumu pirmais."
+    },
+    "answer": "40463"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Nordjuma_10.webp",
+    "question": "Ko norāda attēlā redzamā ceļa zīme?",
+    "answers": {
+      "40320": "Pilsētas vai ciema robežu sākumu.",
+      "40321": "Vietu, no kuras jāievēro prasības, kas attiecas uz apdzīvotām vietām.",
+      "40322": "Pagasta robežas."
+    },
+    "answer": "40320"
+  },
+  {
+    "media": "bildes_A_kat_7._Tehniskais_stvoklis_30.webp",
+    "question": "Vai ar motociklu ir atļauts vest bērnu, kura augums nepārsniedz 150cm?",
+    "answers": {
+      "41010": "Atļauts, ja bērns atrodas viņa vecumam un svaram atbilstoša sēdeklītī.",
+      "41011": "Aizliegts jebkurā gadījumā.",
+      "41012": "Atļauts, ja bērna vecums ir vismaz 12 gadi."
+    },
+    "answer": "41010"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Termini_31.webp",
+    "question": "Vai uzņēmuma teritorijā drīkst braukt ar transportlīdzekli bez transportlīdzekļa vadīšanas tiesībām?",
+    "answers": {
+      "39868": "Nedrīkst.",
+      "39869": "Drīkst, jo tā nav ceļu satiksme."
+    },
+    "answer": "39868"
+  },
+  {
+    "media": "bildes_A_kat_3._Priekrocbas_Viendas_nozmes_3_2.webp",
+    "question": "Kā ir jārīkojas motocikla vadītājam, šķērsojot krustojumu?",
+    "answers": {
+      "41003": "Jādod ceļš tikai kvadricikla vadītājam.",
+      "41004": "Jāšķērso krustojums pirmajam.",
+      "41005": "Jādod ceļš tikai vieglā automobiļa vadītājam.",
+      "41006": "Jāšķērso krustojums pēdējam."
+    },
+    "answer": "41003"
+  },
+  {
+    "media": "bildes_A_kat_beigta_balle.webp",
+    "question": "Kurā no minētajiem gadījumiem vajadzētu atteikties no transportlīdzekļa vadīšanas?",
+    "answers": {
+      "41460": "Brīdī, kad alkohola vairāk nav organismā, tomēr ir jūtams paģiru sindroms.",
+      "41461": "Brīdī pēc pusdienu maltītes ieturēšanas.",
+      "41462": "Neilgi pēc pamošanās no miega.",
+      "41463": "Visos minētajos gadījumos."
+    },
+    "answer": "41460"
+  },
+  {
+    "media": "bildes_A_kat_7._Tehniskais_stvoklis_Dzesesanas_skidrums.webp",
+    "question": "Kā rīkosieties, ja, vadot motociklu, mēraparātu panelī iedegas attēlotā indikācija?",
+    "answers": {
+      "40741": "Apstāšos un novērsīšu indikatora iedegšanās iemeslu vai vērsīšos pēc tehniskās palīdzības.",
+      "40742": "Apstāšos un iepildīšu dzesēšanas šķidruma tvertnē aukstu dzeramo ūdeni, tad turpināšu kustību.",
+      "40743": "Ievērojot īpašu piesardzību, braukšu uz tuvāko servisu.",
+      "40744": "Turpinot braukšanu, palielināšu braukšanas ātrumu, lai labāk dzesētu motoru."
+    },
+    "answer": "40741"
+  },
+  {
+    "media": "bildes_A_kat_7._Tehniskais_stvoklis_14.webp",
+    "question": "Kurš no apgalvojumiem ir patiess?",
+    "answers": {
+      "40714": "Priekšējām bremzēm ir jāattīsta lielāks bremzēšanas spēks, jo priekšējais ritenis bremzēšanas laikā ir vairāk noslogots.",
+      "40715": "Aizmugurējās bremzes ir efektīvākas par priekšējām, jo tiek darbinātas ar kāju.",
+      "40716": "Aizmugurējām bremzēm ir jāattīsta lielāks bremzēšanas spēks, jo tiek bremzēts dzenošais ritenis."
+    },
+    "answer": "40714"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Servisa_7.webp",
+    "question": "Par ko informē attēlā redzamā ceļa zīme?",
+    "answers": {
+      "40279": "Par to, ka pēc 400 m būs tūrisma informācijas centrs.",
+      "40280": "Par to, ka pēc 400 m būs iespēja pieslēgties bezmaksas internetam.",
+      "40281": "Par to, ka pēc 400 m būs iepirkšanās un izklaides centrs."
+    },
+    "answer": "40279"
+  },
+  {
+    "media": "bildes_b_25_Pirma_palidziba_25_1.webp",
+    "question": "Kurš no minētajiem ir Ātrās palīdzības (Neatliekamās medicīniskās palīdzības dienesta) izsaukuma tālruņa numurs?",
+    "answers": {
+      "4172": "113",
+      "4173": "911",
+      "4174": "1188"
+    },
+    "answer": "4172"
+  },
+  {
+    "media": "bildes_A_kat_2._Cea_zmes_Aizlieguma_3.webp",
+    "question": "Kuros gadījumos motocikla vadītājam atļauts iebraukt attēlā redzamās ceļa zīmes apzīmētajā zonā?",
+    "answers": {
+      "41525": "Ja motocikla īpašnieks dzīvo šajā zonā.",
+      "41526": "Ja motocikla īpašnieks strādā šajā zonā.",
+      "41527": "Abos iepriekšminētajos gadījumos."
+    },
+    "answer": "41527"
+  },
+  {
+    "media": "video_A_kat_A_Bstambas_paredzana_Cea_apzmjums1_MP4.webp",
+    "question": "Video jautājums\nKas ir jāņem vērā motocikla vadītājam attēlotajā situācijā?",
+    "answers": {
+      "41528": "Bremzēšana uz ceļa apzīmējuma, īpaši, ja brauktuve ir mitra, ir īpaši bīstama.",
+      "41529": "Uzbraukšana uz mitra ceļa apzīmējuma, īpaši, ja tas ir augstāks par brauktuves virsmas līmeni, ir īpaši bīstama.",
+      "41530": "Abas minētās atbildes ir pareizas."
+    },
+    "answer": "41530"
+  },
+  {
+    "media": "bildes_A_kat_3._Priekrocbas_Ar_zmm_6.webp",
+    "question": "Kā ir jārīkojas motocikla vadītājam, šķērsojot krustojumu?",
+    "answers": {
+      "41195": "Jāpārbrauc krustojums pirmajam.",
+      "41196": "Jādod ceļš tikai vieglā automobiļa vadītājam.",
+      "41197": "Jādod ceļš abu transportlīdzekļu vadītājiem.",
+      "41198": "Jādod ceļš tikai kravas automobiļa vadītājam."
+    },
+    "answer": "41195"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Apdzana,_samainans,_apsteigana_13_2.webp",
+    "question": "Pa kuru no trajektorijām motocikla vadītājam atļauts apsteigt vieglo automobili apdzīvotā vietā?",
+    "answers": {
+      "41531": "Tikai pa B.",
+      "41532": "Tikai pa A.",
+      "41533": "Pa A un B."
+    },
+    "answer": "41531"
+  },
+  {
+    "media": "bildes_A_kat_1._Ceu_satiksmi_reglamentjoie_tiesbu_akti_Transportldzeku_izkrtojums_uz_brauktuves_26.webp",
+    "question": "Vai motocikla vadītājam atļauts apstāties attēlotajā situācijā?",
+    "answers": {
+      "41537": "Atļauts, lai uzņemtu pasažieri, ja tas netraucē pasažieru sabiedrisko transportlīdzekļu satiksmi.",
+      "41538": "Aizliegts."
+    },
+    "answer": "41537"
+  }
+]
